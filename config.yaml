@@ -1,0 +1,61 @@
+# job-radar configuration. Edit freely; no code changes needed.
+
+filters:
+  max_required_years: 4          # skip when the largest "N years" in the text is at least this
+  salary_floor: 46000            # skip when a stated annual salary is below this (unknown never skips)
+  blue_card_threshold: 45934     # 2026 reduced EU Blue Card threshold (50,700 regular); used for the residence hint
+  allow_german_override: true    # true: German-mandatory postings go to an "override-only" list instead of being dropped
+
+sources:
+  ba: true
+  arbeitnow: true
+
+ba_days: 7                       # postings published in the last N days
+ba_pages: 3                      # pages of 50 per query
+ba_detail_limit: 150             # max detail fetches per run (unprocessed candidates are retried next run)
+arbeitnow_pages: 10
+
+ba_queries:
+  - Intune
+  - Endpoint Management
+  - Modern Workplace
+  - Digital Workplace
+  - ServiceNow
+  - Nexthink
+  - Windows Rollout
+  - IT Projektkoordinator
+  - IT Project Manager Junior
+  - Product Owner IT
+  - PowerShell Automation
+  - Data Scientist Junior
+  - Machine Learning Engineer
+  - Data Engineer Junior
+  - KI Engineer
+  - Business Analyst IT
+  - IT Consultant Junior
+  - Application Consultant
+  - RPA Entwickler
+  - Microsoft 365
+
+keywords:
+  gold: [intune, endpoint, autopilot, digital workplace, modern workplace, nexthink, workplace engineer, servicenow,
+         powershell, windows 11, rollout, it project, projektkoordinat, product owner, pmo, microsoft 365, m365,
+         it support engineer, monitoring, elastic, application consultant, service owner, project delivery]
+  silver: [data scientist, machine learning, ml engineer, ai engineer, data engineer, graph neural, recommend,
+           llm, generative ai, genai, computer vision, nlp, ki-engineer, databricks]
+  bronze: [rpa, uipath, power automate, power platform, business analyst, it consultant, hr it, hris,
+           process automation, prozessautomatisierung, reporting analyst, power bi, it-berater]
+
+preferred_cities: [Berlin, Munich, München, Frankfurt, Hamburg, Stuttgart, Düsseldorf, Köln, Cologne, Karlsruhe,
+                   Dresden, Darmstadt, Aachen, Leipzig, Nuremberg, Nürnberg, Bonn, Hannover, Walldorf, Bremen,
+                   Freiburg, Kiel, Ulm, Reutlingen, Metzingen, Tübingen, Böblingen, Ludwigsburg]
+
+funding:
+  feeds:                         # a failing feed shows up in the log and is skipped
+    - https://www.eu-startups.com/feed/
+    - https://tech.eu/feed/
+    - https://www.deutsche-startups.de/feed/
+
+notion:
+  enabled: false                 # set true after adding NOTION_TOKEN as a repository secret
+  database_id: f8ef7aef322b4d1891ff7df0b2b844d9   # Notion "Jobs (applications tracker)" database

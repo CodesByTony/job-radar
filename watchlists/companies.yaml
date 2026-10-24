@@ -1,0 +1,7 @@
+# Company ATS feeds polled every run. The sweep also adds companies automatically (saved in state.json).
+# Add one only after confirming the ATS and token from the careers URL:
+#   boards.greenhouse.io/<token> | jobs.lever.co/<token> | <token>.jobs.personio.de | jobs.smartrecruiters.com/<token>
+#   jobs.ashbyhq.com/<token> | apply.workable.com/<token> | <token>.recruitee.com
+companies: []
+#  - {name: Example GmbH, ats: greenhouse, token: examplegmbh}
+#  - {name: Example AG, ats: lever, token: exampleag, eu: true}

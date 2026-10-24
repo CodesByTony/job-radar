@@ -1,0 +1,36 @@
+name: weekly-radar
+on:
+  schedule:
+    - cron: "0 6 * * 1"         # Mondays 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python -m radar funding
+      - name: Outreach drafts (skipped while profile.yaml still has SET_ME)
+        run: python -m radar outreach || echo "outreach skipped: finish profile.yaml"
+      - name: Commit
+        run: |
+          git config user.name "job-radar"
+          git config user.email "job-radar@users.noreply.github.com"
+          git add state.json out/funding.md out/outreach || true
+          git commit -m "weekly $(date -u +%F)" || echo "nothing to commit"
+          git pull --rebase origin main || true
+          git push
+      - name: Open weekly issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --title "Weekly radar $(date -u +%F): funding news and outreach drafts" --body-file out/funding.md

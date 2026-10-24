@@ -1,0 +1,44 @@
+name: daily-scan
+on:
+  schedule:
+    - cron: "30 5 * * *"        # 05:30 UTC = 07:30 Berlin in summer, 06:30 in winter
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python -m radar selfcheck
+      - id: scan
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        run: python -m radar scan
+      - name: Commit state and reports
+        run: |
+          git config user.name "job-radar"
+          git config user.email "job-radar@users.noreply.github.com"
+          git add state.json out/latest.md out/new.json out/results.csv
+          git commit -m "scan $(date -u +%F)" || echo "nothing to commit"
+          git pull --rebase origin main || true
+          git push
+      - name: Open digest issue (GitHub emails you)
+        if: steps.scan.outputs.passed != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          head -c 60000 out/latest.md > body.md
+          gh issue create --title "${{ steps.scan.outputs.title }}" --body-file body.md

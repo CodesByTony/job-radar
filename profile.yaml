@@ -1,0 +1,11 @@
+# Used only to render outreach drafts. Rendering is refused while any value contains SET_ME.
+name: Tony Thomas
+email: tony275706@gmail.com
+linkedin: https://www.linkedin.com/in/tony-thomas-3b72931a6
+role_focus: Intune / endpoint and digital workplace engineering, IT automation (PowerShell) and IT project delivery
+availability_line: "SET_ME: one truthful sentence about when and how much you can work (start date and weekly hours)"
+proof_points:
+  - Two years at HUGO BOSS AG in IT Digital Workplace; Assistant Product Owner for Nexthink
+  - Hands-on Microsoft Intune (compliance and configuration policies, app deployment, Autopilot) and Nexthink Remote Actions with PowerShell and NQL
+  - Supported the Windows 10 to 11 rollout across 1,000+ devices
+  - M.Sc. Artificial Intelligence student at BTU Cottbus-Senftenberg; thesis on graph neural networks

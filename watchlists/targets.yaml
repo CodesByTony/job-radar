@@ -1,0 +1,43 @@
+# Outreach targets. type decides the template in templates/<type>.md.
+# public_contact: ONLY a published company address (e.g. a recruiting or applications mailbox) or contact-form URL that
+# you or Claude verified on the company's own site. Never guess or harvest personal addresses.
+# status: contacted | skip | (empty = draft will be generated)
+# verified: whether the Nexthink-partner / agency facts below were confirmed from a source (see notes)
+targets:
+  # ---- Nexthink partners (source: nexthink.com press releases and partner pages) ----
+  - {name: Bechtle AG, type: nexthink_partner, region: Germany (Frankfurt dateline), verified: true,
+     careers_url: "https://www.bechtle.com/karriere",
+     hook: "your Modern Workplace business announced its Nexthink partnership in July 2025",
+     notes: "Partnership press release 30 Jul 2025 (nexthink.com/press). Contact point not yet verified."}
+  - {name: SPIRIT/21, type: nexthink_partner, region: Böblingen, verified: true, url: "https://spirit21.com/en/partners/nexthink",
+     hook: "you are a Nexthink strategic partner for the DACH region with certified consultants",
+     notes: "Partner page lists a recruiting phone +49 7031 209-50140 and an Instagram account; no e-mail seen. Ask by phone or find a careers form."}
+  - {name: Ontrex, type: nexthink_partner, region: DACH, verified: true,
+     hook: "you were Nexthink's Central European Partner of the Year in 2022",
+     notes: "Nexthink 2022 partner awards page. Location and careers page unverified."}
+  - {name: Computacenter, type: nexthink_partner, region: Germany, verified: true,
+     hook: "you were Nexthink's Northern European Partner of the Year in 2022",
+     notes: "Nexthink 2022 partner awards page. German careers page and contact unverified (Germany presence from memory)."}
+  - {name: Accenture, type: nexthink_partner, region: Germany, verified: true,
+     hook: "you were Nexthink's Global Partner of the Year in 2022",
+     notes: "Nexthink 2022 partner awards page. Use the German careers portal, not cold e-mail."}
+  - {name: Tata Consultancy Services, type: nexthink_partner, region: Germany, verified: true,
+     hook: "you were named Nexthink's Emerging Partner of the Year in 2022",
+     notes: "Nexthink 2022 partner awards page. Use the German careers portal."}
+  - {name: Persistent Systems, type: nexthink_partner, region: Germany, verified: true,
+     hook: "you announced a digital workplace partnership with Nexthink",
+     notes: "Nexthink press release (date not checked). German presence unverified."}
+  # ---- Nexthink itself ----
+  - {name: Nexthink, type: employer, region: Germany, verified: false,
+     hook: "you expanded your presence in the German market",
+     careers_url: "https://www.nexthink.com/careers",
+     notes: "Press page 'Nexthink expands presence in German market' exists; careers URL unverified."}
+  # ---- Agencies and staffing firms (from memory unless stated; verify before use) ----
+  - {name: GULP Information Services, type: agency, region: Germany, verified: false, url: "https://www.gulp.de/",
+     notes: "gulp.de appeared in search results; mainly freelance IT projects."}
+  - {name: Ferchau, type: agency, region: Germany, verified: false, url: "https://www.ferchau.com/",
+     notes: "Ferchau IT-administrator posting seen on englishjobs.de (Sep 2026)."}
+  - {name: Hays, type: agency, region: Germany, verified: false, url: "https://www.hays.de/"}
+  - {name: Randstad Digital, type: agency, region: Germany, verified: false, url: "https://www.randstad.de/"}
+  - {name: Michael Page, type: agency, region: Germany, verified: false, url: "https://www.michaelpage.de/"}
+  - {name: Brunel, type: agency, region: Germany, verified: false, url: "https://www.brunel.net/de-de"}

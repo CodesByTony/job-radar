@@ -1,0 +1,6 @@
+# Career pages to read (JSON-LD JobPosting) or watch for changes. robots.txt is honoured.
+# URLs marked unverified may 404; the digest shows "fetch failed" and you fix or remove them.
+pages:
+  - {name: Exyte, url: "https://jobs.exyte.net/"}                      # verified exists (Stuttgart IT roles)
+  - {name: Bechtle, url: "https://www.bechtle.com/karriere"}           # unverified URL; Nexthink partner
+  - {name: SPIRIT/21, url: "https://spirit21.com/en/"}                 # verified exists; Nexthink partner (Boeblingen); look for careers link
