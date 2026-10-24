@@ -1,5 +1,62 @@
 [
  {
+  "id": "an:product-owner-business-analyst-bochum-84748",
+  "source": "Arbeitnow",
+  "title": "Product Owner/Business Analyst (m/f/d)",
+  "company": "Trafineo",
+  "location": "Bochum, Nordrhein-Westfalen, Germany",
+  "url": "https://www.arbeitnow.com/jobs/companies/trafineo/product-owner-business-analyst-bochum-84748",
+  "apply_url": "",
+  "date": "1792864303",
+  "desc": "",
+  "tags": "Product",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Pass",
+  "reason": "",
+  "tier": "Gold",
+  "score": 80,
+  "german": "Plus",
+  "flags": [
+   "English signal"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:it-support-specialist-berlin-437816",
+  "source": "Arbeitnow",
+  "title": "IT Support Specialist (f/m/x)",
+  "company": "Enpal",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/enpal/it-support-specialist-berlin-437816",
+  "apply_url": "",
+  "date": "1792831214",
+  "desc": "",
+  "tags": "Tech",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Pass",
+  "reason": "",
+  "tier": "Gold",
+  "score": 78,
+  "german": "Unclear",
+  "flags": [
+   "3+ yrs"
+  ],
+  "hits": [
+   "intune",
+   "endpoint",
+   "powershell",
+   "microsoft 365"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
   "id": "ba:11956-2914601792706401-S",
   "source": "BA Jobbörse",
   "title": "SoftwareOne Deutschland GmbH: M365 Consultant (gn) Modern Workplace Compliance",
@@ -26,127 +83,29 @@
   "salary_max": 0
  },
  {
-  "id": "ba:10001-1003903571-S",
-  "source": "BA Jobbörse",
-  "title": "IT-Systemadministrator (m/w/d) Produktions-IT / Microsoft Intune – Direktvermittlung | Raum Nürnberg",
-  "company": "add-on personal & lösungen GmbH",
-  "location": "Nürnberg, Mittelfranken",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003903571-S",
-  "apply_url": "http://www.arbeitsagentur.de",
-  "date": "",
+  "id": "an:technical-co-founder-ai-efficiency-at-ai-venture-berlin-172572",
+  "source": "Arbeitnow",
+  "title": "Technical Co-Founder (AI Efficiency) @ AI Venture, Berlin",
+  "company": "atlantic.vc",
+  "location": "Berlin, Berlin, Germany",
+  "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/technical-co-founder-ai-efficiency-at-ai-venture-berlin-172572",
+  "apply_url": "",
+  "date": "1792669908",
   "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
+  "tags": "Founder & Entrepreneurs in Residence",
+  "salary": "",
+  "feed": "arbeitnow",
   "gate": "Pass",
   "reason": "",
-  "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
-  "hits": [
-   "intune"
+  "tier": "Silver",
+  "score": 76,
+  "german": "Plus",
+  "flags": [
+   "English signal"
   ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:10001-1003896266-S",
-  "source": "BA Jobbörse",
-  "title": "Microsoft 365 & Modern Workplace Administrator (m/w/d)",
-  "company": "pco GmbH & Co. KG",
-  "location": "Osnabrück",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003896266-S",
-  "apply_url": "http://www.arbeitsagentur.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Pass",
-  "reason": "",
-  "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
   "hits": [
-   "modern workplace",
-   "microsoft 365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:10001-1003887445-S",
-  "source": "BA Jobbörse",
-  "title": "Fachinformatiker Systemintegration (w/m/d) / IT-Spezialist (w/m/d) Modern Workplace",
-  "company": "Robert Half Deutschland GmbH & Co. KG",
-  "location": "München",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003887445-S",
-  "apply_url": "http://www.arbeitsagentur.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Pass",
-  "reason": "",
-  "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
-  "hits": [
-   "modern workplace"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:10001-1003887191-S",
-  "source": "BA Jobbörse",
-  "title": "IT-Administrator / System Engineer(m/w/d) | Microsoft 365 & Security & Managed Services",
-  "company": "7ahead GmbH",
-  "location": "Frankfurt am Main",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003887191-S",
-  "apply_url": "http://www.arbeitsagentur.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Pass",
-  "reason": "",
-  "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
-  "hits": [
-   "microsoft 365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:12862-257101-S",
-  "source": "BA Jobbörse",
-  "title": "IT-Systemadministrator (m/w/d) Modern Workplace",
-  "company": "AMADEUS FIRE AG",
-  "location": "Hamburg",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12862-257101-S",
-  "apply_url": "www.amadeus-fire.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Pass",
-  "reason": "",
-  "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
-  "hits": [
-   "modern workplace"
+   "machine learning",
+   "ai engineer"
   ],
   "residence": "Check salary",
   "salary_max": 0
@@ -177,6 +136,523 @@
   "salary_max": 0
  },
  {
+  "id": "an:product-owner-mobile-integrations-hamburg-232550",
+  "source": "Arbeitnow",
+  "title": "Product Owner - Mobile Integrations (f/m/d)",
+  "company": "adjoe",
+  "location": "Hamburg",
+  "url": "https://www.arbeitnow.com/jobs/companies/adjoe/product-owner-mobile-integrations-hamburg-232550",
+  "apply_url": "",
+  "date": "1792604416",
+  "desc": "",
+  "tags": "adjoe",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Pass",
+  "reason": "",
+  "tier": "Gold",
+  "score": 74,
+  "german": "Unclear",
+  "flags": [
+   "3+ yrs"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:flight-data-monitoring-manager-stuttgart-228502",
+  "source": "Arbeitnow",
+  "title": "Flight Data Monitoring Manager",
+  "company": "OnTarget Communications",
+  "location": "Stuttgart",
+  "url": "https://www.arbeitnow.com/jobs/companies/ontarget-communications/flight-data-monitoring-manager-stuttgart-228502",
+  "apply_url": "",
+  "date": "1792588814",
+  "desc": "",
+  "tags": "Logistics and transportation bachelor's degree",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Pass",
+  "reason": "",
+  "tier": "Gold",
+  "score": 74,
+  "german": "Unclear",
+  "flags": [],
+  "hits": [
+   "monitoring"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:ai-application-engineer-ai-products-llm-rag-berlin-377089",
+  "source": "Arbeitnow",
+  "title": "AI Application Engineer – AI Products (LLM & RAG) (m/f/d)",
+  "company": "Machine Learning Reply",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/ai-application-engineer-ai-products-llm-rag-berlin-377089",
+  "apply_url": "",
+  "date": "1792783212",
+  "desc": "",
+  "tags": "Information technology bachelor's degree",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Pass",
+  "reason": "",
+  "tier": "Silver",
+  "score": 70,
+  "german": "Unclear",
+  "flags": [],
+  "hits": [
+   "llm",
+   "machine learning",
+   "generative ai",
+   "genai"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:senior-data-engineer-healthcare-heidelberg-485630",
+  "source": "Arbeitnow",
+  "title": "Data Engineer – Healthcare",
+  "company": "PAICON",
+  "location": "Heidelberg",
+  "url": "https://www.arbeitnow.com/jobs/companies/paicon/senior-data-engineer-healthcare-heidelberg-485630",
+  "apply_url": "",
+  "date": "1792698453",
+  "desc": "",
+  "tags": "Data Processing Data Engineer",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Pass",
+  "reason": "",
+  "tier": "Silver",
+  "score": 69,
+  "german": "Unclear",
+  "flags": [
+   "English signal"
+  ],
+  "hits": [
+   "data engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:flight-dynamics-data-engineer-all-genders-munich-bavaria-123108",
+  "source": "Arbeitnow",
+  "title": "Flight Dynamics Data Engineer (All Genders)",
+  "company": "Skdse",
+  "location": "Munich, Bavaria",
+  "url": "https://www.arbeitnow.com/jobs/companies/skdse/flight-dynamics-data-engineer-all-genders-munich-bavaria-123108",
+  "apply_url": "",
+  "date": "1792832125",
+  "desc": "",
+  "tags": "Flight Science",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Pass",
+  "reason": "",
+  "tier": "Silver",
+  "score": 68,
+  "german": "Unclear",
+  "flags": [
+   "3+ yrs"
+  ],
+  "hits": [
+   "data engineer",
+   "machine learning"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:robot-learning-engineer-berlin-257419",
+  "source": "Arbeitnow",
+  "title": "Robot Learning Engineer",
+  "company": "Rohlik",
+  "location": "Berlin, Germany",
+  "url": "https://www.arbeitnow.com/jobs/companies/rohlik/robot-learning-engineer-berlin-257419",
+  "apply_url": "",
+  "date": "1792766418",
+  "desc": "",
+  "tags": "IT",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Pass",
+  "reason": "",
+  "tier": "Silver",
+  "score": 68,
+  "german": "Unclear",
+  "flags": [],
+  "hits": [
+   "data engineer",
+   "computer vision"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:engineering-manager-ai-group-berlin-33291",
+  "source": "Arbeitnow",
+  "title": "Engineering Manager, AI Group",
+  "company": "intercom",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/intercom/engineering-manager-ai-group-berlin-33291",
+  "apply_url": "",
+  "date": "1792648524",
+  "desc": "",
+  "tags": "Engineering",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Pass",
+  "reason": "",
+  "tier": "Silver",
+  "score": 68,
+  "german": "Unclear",
+  "flags": [],
+  "hits": [
+   "machine learning",
+   "generative ai"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:internship-machine-learning-research-engineer-berlin-168024",
+  "source": "Arbeitnow",
+  "title": "Internship - Machine Learning Research Engineer",
+  "company": "Perplexity",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/perplexity/internship-machine-learning-research-engineer-berlin-168024",
+  "apply_url": "",
+  "date": "1792766415",
+  "desc": "",
+  "tags": "Search",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Pass",
+  "reason": "",
+  "tier": "Silver",
+  "score": 66,
+  "german": "Unclear",
+  "flags": [],
+  "hits": [
+   "machine learning"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:working-student-it-operations-berlin-282027",
+  "source": "Arbeitnow",
+  "title": "Working Student IT Operations (f/m/d)",
+  "company": "SPREAD GmbH",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/spread-gmbh/working-student-it-operations-berlin-282027",
+  "apply_url": "",
+  "date": "1792760474",
+  "desc": "",
+  "tags": "Software Development",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 56,
+  "german": "Mandatory",
+  "flags": [
+   "English signal"
+  ],
+  "hits": [
+   "endpoint",
+   "microsoft 365"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:system-engineer-haselunne-324130",
+  "source": "Arbeitnow",
+  "title": "System Engineer (m/w/d)",
+  "company": "MintCode Solutions GmbH",
+  "location": "Haselünne",
+  "url": "https://www.arbeitnow.com/jobs/companies/mintcode-solutions-gmbh/system-engineer-haselunne-324130",
+  "apply_url": "",
+  "date": "1792830648",
+  "desc": "",
+  "tags": "System and Network Administration",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 54,
+  "german": "Mandatory",
+  "flags": [
+   "posting written in German"
+  ],
+  "hits": [
+   "endpoint",
+   "microsoft 365"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:technikleiter-it-services-dispatch-hamburg-353973",
+  "source": "Arbeitnow",
+  "title": "Technikleiter (m/w/d) – IT-Services & Dispatch",
+  "company": "ADVANCED Systemhaus GmbH",
+  "location": "Hamburg",
+  "url": "https://www.arbeitnow.com/jobs/companies/advanced-systemhaus-gmbh/technikleiter-it-services-dispatch-hamburg-353973",
+  "apply_url": "",
+  "date": "1792744269",
+  "desc": "",
+  "tags": "Management Team Leader",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 53,
+  "german": "Mandatory",
+  "flags": [
+   "posting written in German"
+  ],
+  "hits": [
+   "endpoint",
+   "microsoft 365",
+   "m365"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:information-security-officer-berlin-450911",
+  "source": "Arbeitnow",
+  "title": "Information Security Officer (f/m/d)",
+  "company": "SPREAD GmbH",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/spread-gmbh/information-security-officer-berlin-450911",
+  "apply_url": "",
+  "date": "1792760474",
+  "desc": "",
+  "tags": "Business Operations",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 51,
+  "german": "Mandatory",
+  "flags": [
+   "3+ yrs"
+  ],
+  "hits": [
+   "endpoint",
+   "m365"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:erp-cloud-spezialist-cologne-212472",
+  "source": "Arbeitnow",
+  "title": "ERP & Cloud Spezialist",
+  "company": "AJAT GmbH",
+  "location": "Cologne",
+  "url": "https://www.arbeitnow.com/jobs/companies/ajat-gmbh/erp-cloud-spezialist-cologne-212472",
+  "apply_url": "",
+  "date": "1792681298",
+  "desc": "",
+  "tags": "SAP/ERP Consulting Development",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 51,
+  "german": "Mandatory",
+  "flags": [],
+  "hits": [
+   "powershell",
+   "microsoft 365"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:junior-ai-application-engineer-ai-products-llm-rag-munich-5253",
+  "source": "Arbeitnow",
+  "title": "Junior AI Application Engineer – AI Products (LLM & RAG) (m/f/d)",
+  "company": "Machine Learning Reply",
+  "location": "Munich",
+  "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-5253",
+  "apply_url": "",
+  "date": "1792783212",
+  "desc": "",
+  "tags": "Information technology bachelor's degree",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 50,
+  "german": "Mandatory",
+  "flags": [
+   "posting written in German"
+  ],
+  "hits": [
+   "llm",
+   "machine learning",
+   "generative ai",
+   "genai"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:10001-1003903571-S",
+  "source": "BA Jobbörse",
+  "title": "IT-Systemadministrator (m/w/d) Produktions-IT / Microsoft Intune – Direktvermittlung | Raum Nürnberg",
+  "company": "add-on personal & lösungen GmbH",
+  "location": "Nürnberg, Mittelfranken",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003903571-S",
+  "apply_url": "http://www.arbeitsagentur.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "intune"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:10001-1003896266-S",
+  "source": "BA Jobbörse",
+  "title": "Microsoft 365 & Modern Workplace Administrator (m/w/d)",
+  "company": "pco GmbH & Co. KG",
+  "location": "Osnabrück",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003896266-S",
+  "apply_url": "http://www.arbeitsagentur.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "modern workplace",
+   "microsoft 365"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:10001-1003887445-S",
+  "source": "BA Jobbörse",
+  "title": "Fachinformatiker Systemintegration (w/m/d) / IT-Spezialist (w/m/d) Modern Workplace",
+  "company": "Robert Half Deutschland GmbH & Co. KG",
+  "location": "München",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003887445-S",
+  "apply_url": "http://www.arbeitsagentur.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "modern workplace"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:10001-1003887191-S",
+  "source": "BA Jobbörse",
+  "title": "IT-Administrator / System Engineer(m/w/d) | Microsoft 365 & Security & Managed Services",
+  "company": "7ahead GmbH",
+  "location": "Frankfurt am Main",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003887191-S",
+  "apply_url": "http://www.arbeitsagentur.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "microsoft 365"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12862-257101-S",
+  "source": "BA Jobbörse",
+  "title": "IT-Systemadministrator (m/w/d) Modern Workplace",
+  "company": "AMADEUS FIRE AG",
+  "location": "Hamburg",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12862-257101-S",
+  "apply_url": "www.amadeus-fire.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "modern workplace"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
   "id": "ba:14418-48568-1800921-0-S",
   "source": "BA Jobbörse",
   "title": "Digital Workplace Specialist (m/w/d) M365 und KI",
@@ -189,12 +665,14 @@
   "tags": "",
   "salary": "JAHRESGEHALT",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "digital workplace",
    "m365"
@@ -215,12 +693,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "servicenow"
   ],
@@ -240,12 +720,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "servicenow"
   ],
@@ -265,12 +747,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "rollout"
   ],
@@ -290,12 +774,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "rollout"
   ],
@@ -315,12 +801,14 @@
   "tags": "",
   "salary": "JAHRESGEHALT",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "rollout"
   ],
@@ -340,12 +828,14 @@
   "tags": "",
   "salary": "JAHRESGEHALT",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "rollout"
   ],
@@ -365,12 +855,14 @@
   "tags": "",
   "salary": "JAHRESGEHALT",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "rollout"
   ],
@@ -390,14 +882,67 @@
   "tags": "",
   "salary": "JAHRESGEHALT",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 74,
-  "german": "Unclear",
-  "flags": [],
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "rollout"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:product-owner-b2b-saas-berlin-58931",
+  "source": "Arbeitnow",
+  "title": "Product Owner – B2B SaaS (m/w/d)",
+  "company": "CALIMA",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/calima/product-owner-b2b-saas-berlin-58931",
+  "apply_url": "",
+  "date": "1792738866",
+  "desc": "",
+  "tags": "Product Management",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:it-administrator-system-engineer-monchengladbach-325371",
+  "source": "Arbeitnow",
+  "title": "IT-Administrator / System Engineer (m/w/d)",
+  "company": "Hall Tabakwaren e.K",
+  "location": "Mönchengladbach, Nordrhein-Westfalen, Deutschland",
+  "url": "https://www.arbeitnow.com/jobs/companies/hall-tabakwaren-ek/it-administrator-system-engineer-monchengladbach-325371",
+  "apply_url": "",
+  "date": "1792669906",
+  "desc": "",
+  "tags": "Innendienst",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [],
+  "hits": [
+   "powershell",
+   "microsoft 365"
   ],
   "residence": "Check salary",
   "salary_max": 0
@@ -415,12 +960,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "microsoft 365"
   ],
@@ -440,12 +987,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "microsoft 365"
   ],
@@ -465,12 +1014,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "endpoint"
   ],
@@ -490,12 +1041,14 @@
   "tags": "",
   "salary": "JAHRESGEHALT",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "digital workplace"
   ],
@@ -515,12 +1068,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "endpoint"
   ],
@@ -540,12 +1095,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "modern workplace"
   ],
@@ -565,12 +1122,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "microsoft 365"
   ],
@@ -590,12 +1149,14 @@
   "tags": "",
   "salary": "JAHRESGEHALT",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "m365"
   ],
@@ -615,12 +1176,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "digital workplace"
   ],
@@ -640,12 +1203,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "digital workplace"
   ],
@@ -665,12 +1230,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "microsoft 365"
   ],
@@ -690,12 +1257,14 @@
   "tags": "",
   "salary": "JAHRESGEHALT",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "servicenow"
   ],
@@ -715,12 +1284,14 @@
   "tags": "",
   "salary": "JAHRESGEHALT",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "servicenow"
   ],
@@ -740,12 +1311,14 @@
   "tags": "",
   "salary": "JAHRESGEHALT",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "servicenow"
   ],
@@ -765,12 +1338,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "rollout"
   ],
@@ -790,12 +1365,14 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "rollout"
   ],
@@ -815,14 +1392,69 @@
   "tags": "",
   "salary": "STUNDENLOHN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
-  "score": 72,
-  "german": "Unclear",
-  "flags": [],
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
   "hits": [
    "rollout"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:devops-ml-engineer-munich-245161",
+  "source": "Arbeitnow",
+  "title": "DevOps/ML Engineer (m/f/d)",
+  "company": "Machine Learning Reply",
+  "location": "Munich",
+  "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/devops-ml-engineer-munich-245161",
+  "apply_url": "",
+  "date": "1792783212",
+  "desc": "",
+  "tags": "Information technology bachelor's degree",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 45,
+  "german": "Mandatory",
+  "flags": [],
+  "hits": [
+   "ml engineer",
+   "machine learning",
+   "databricks"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:agentic-ai-software-engineer-munich-122621",
+  "source": "Arbeitnow",
+  "title": "Agentic AI Software Engineer",
+  "company": "Machine Learning Reply",
+  "location": "Munich, Bayern, Germany",
+  "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-122621",
+  "apply_url": "",
+  "date": "1792756287",
+  "desc": "",
+  "tags": "Data Frameworks",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 43,
+  "german": "Mandatory",
+  "flags": [],
+  "hits": [
+   "machine learning",
+   "generative ai"
   ],
   "residence": "Check salary",
   "salary_max": 0
@@ -840,14 +1472,193 @@
   "tags": "",
   "salary": "KEINE_ANGABEN",
   "feed": "ba",
-  "gate": "Pass",
+  "gate": "Override-only",
   "reason": "",
   "tier": "Silver",
-  "score": 66,
-  "german": "Unclear",
+  "score": 41,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "ai engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:forward-deployed-ai-engineer-cologne-71052",
+  "source": "Arbeitnow",
+  "title": "Forward Deployed AI Engineer (w/d/m)",
+  "company": "WEBUILDAI GmbH",
+  "location": "Cologne",
+  "url": "https://www.arbeitnow.com/jobs/companies/webuildai-gmbh/forward-deployed-ai-engineer-cologne-71052",
+  "apply_url": "",
+  "date": "1792776655",
+  "desc": "",
+  "tags": "Software Development",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 41,
+  "german": "Mandatory",
   "flags": [],
   "hits": [
    "ai engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:machine-learning-consultant-munich-150083",
+  "source": "Arbeitnow",
+  "title": "Machine Learning Consultant (m/w/d)",
+  "company": "Machine Learning Reply",
+  "location": "Munich, Bayern, Germany",
+  "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/machine-learning-consultant-munich-150083",
+  "apply_url": "",
+  "date": "1792756287",
+  "desc": "",
+  "tags": "Data Frameworks",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 41,
+  "german": "Mandatory",
+  "flags": [],
+  "hits": [
+   "machine learning"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:junior-consultant-im-bereich-strategie-business-analyst-cologne-58688",
+  "source": "Arbeitnow",
+  "title": "Junior Consultant (m/w/d) im Bereich Strategie / Business Analyst",
+  "company": "OSCAR GmbH",
+  "location": "Cologne",
+  "url": "https://www.arbeitnow.com/jobs/companies/oscar-gmbh/junior-consultant-im-bereich-strategie-business-analyst-cologne-58688",
+  "apply_url": "",
+  "date": "1792679458",
+  "desc": "",
+  "tags": "Consulting",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Bronze",
+  "score": 34,
+  "german": "Mandatory",
+  "flags": [],
+  "hits": [
+   "business analyst"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:business-analyst-gn-berlin-104193",
+  "source": "Arbeitnow",
+  "title": "Business Analyst (gn)",
+  "company": "New Monday GmbH",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/business-analyst-gn-berlin-104193",
+  "apply_url": "",
+  "date": "1792663257",
+  "desc": "",
+  "tags": "Remote Business Analyst",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Bronze",
+  "score": 29,
+  "german": "Mandatory",
+  "flags": [
+   "posting written in German"
+  ],
+  "hits": [
+   "business analyst"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:business-consultant-it-business-analyst-banking-insurance-berlin-352096",
+  "source": "Arbeitnow",
+  "title": "Business Consultant / IT Business Analyst - Banking & Insurance (w/m/d)",
+  "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/business-consultant-it-business-analyst-banking-insurance-berlin-352096",
+  "apply_url": "",
+  "date": "1792652465",
+  "desc": "",
+  "tags": "Remote Business Analyst",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Bronze",
+  "score": 29,
+  "german": "Mandatory",
+  "flags": [],
+  "hits": [
+   "business analyst"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:meldewesenspezialistin-it-business-analyst-berlin-186616",
+  "source": "Arbeitnow",
+  "title": "Meldewesenspezialist:in / IT Business Analyst (w/m/d)",
+  "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/meldewesenspezialistin-it-business-analyst-berlin-186616",
+  "apply_url": "",
+  "date": "1792652465",
+  "desc": "",
+  "tags": "Remote Business Consulting",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Bronze",
+  "score": 29,
+  "german": "Mandatory",
+  "flags": [],
+  "hits": [
+   "business analyst"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "an:it-business-analyst-berlin-114521",
+  "source": "Arbeitnow",
+  "title": "IT Business Analyst (w/m/d)",
+  "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/it-business-analyst-berlin-114521",
+  "apply_url": "",
+  "date": "1792652465",
+  "desc": "",
+  "tags": "Remote Business Analyst",
+  "salary": "",
+  "feed": "arbeitnow",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Bronze",
+  "score": 29,
+  "german": "Mandatory",
+  "flags": [],
+  "hits": [
+   "business analyst"
   ],
   "residence": "Check salary",
   "salary_max": 0
