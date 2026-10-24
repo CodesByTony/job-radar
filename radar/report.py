@@ -22,7 +22,7 @@ def build_markdown(result: dict) -> str:
         L += [f"> **Source problem:** every call failed for {', '.join(result['down'])}. Check the Actions log.", ""]
     L += [f"Fetched {s['fetched']}, unique {s['unique']}, new {s['new']}, passed gates {s['passed']}, feeds ok {s['feeds_ok']}.", ""]
     L += ["<details><summary>Source health (ok/fail calls per host)</summary>", ""]
-    L += [f"- {h}: {v['ok']} ok / {v['fail']} failed" + (f" (last error: {v['err']})" if v.get('err') and (v['fail'] or 'no job list' in v['err']) else "") for h, v in sorted(result["health"].items())] or ["- no calls made"]
+    L += [f"- {h}: {v['ok']} ok / {v['fail']} failed" + (f" (last error: {v['err']})" if v.get('err') and (v['fail'] or 'no job list' in v['err'] or v['err'].startswith('item keys')) else "") for h, v in sorted(result["health"].items())] or ["- no calls made"]
     L += ["", "</details>", ""]
     passing = [r for r in result["results"] if r.gate == "Pass"]
     override = [r for r in result["results"] if r.gate == "Override-only"]

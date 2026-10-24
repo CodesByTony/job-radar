@@ -30,6 +30,16 @@ def _strip(html: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html or "")).strip()
 
 
+_logged: list = []
+
+
+def _first(d: dict, *keys) -> str:
+    for k in keys:
+        if d.get(k):
+            return str(d[k])
+    return ""
+
+
 def search(cfg: dict) -> list:
     out = []
     for q in cfg["ba_queries"]:
@@ -38,19 +48,27 @@ def search(cfg: dict) -> list:
                 was=q, size=50, page=page, veroeffentlichtseit=cfg["ba_days"], angebotsart=1))
             if not data:
                 break
-            items = next((data[k] for k in ("stellenangebote", "jobs", "angebote", "items", "results")
+            items = next((data[k] for k in ("stellenangebote", "ergebnisliste", "jobs", "angebote", "items", "results")
                           if isinstance(data.get(k), list)), [])
             if not items and page == 1:
                 note = f"{_good['search']} ok but no job list; keys={sorted(data)[:8]} sample={str(data)[:160]}"
                 http.HEALTH[http._host(BASE)]["err"] = note
+            if items and page == 1 and not _logged:
+                _logged.append(1)
+                http.HEALTH[http._host(BASE)]["err"] = f"item keys={sorted(items[0])}"
             for it in items:
-                ref = it.get("refnr", "")
-                ort = it.get("arbeitsort") or {}
+                ref = _first(it, "refnr", "referenznummer", "hashId", "id")
+                ort = it.get("arbeitsort") or it.get("stellenlokationen") or {}
+                if isinstance(ort, list):
+                    ort = (ort[0].get("adresse") if ort and isinstance(ort[0], dict) else {}) or {}
                 out.append(Job(
-                    id="ba:" + ref, source=SOURCE, feed="ba", title=it.get("titel") or it.get("beruf", "") or it.get("title", ""),
-                    company=it.get("arbeitgeber", ""), location=ort.get("ort", ""),
+                    id="ba:" + ref, source=SOURCE, feed="ba",
+                    title=_first(it, "titel", "stellenangebotsTitel", "beruf", "title"),
+                    company=_first(it, "arbeitgeber", "arbeitgebername", "firma"),
+                    location=ort.get("ort", "") if isinstance(ort, dict) else str(ort),
                     url="https://www.arbeitsagentur.de/jobsuche/jobdetail/" + ref,
-                    apply_url=it.get("externeUrl", "") or "", date=it.get("aktuelleVeroeffentlichungsdatum", "")))
+                    apply_url=it.get("externeUrl", "") or "",
+                    date=_first(it, "aktuelleVeroeffentlichungsdatum", "veroeffentlichungsdatum", "modifikationsTimestamp")))
             if len(items) < 50:
                 break
     return out
