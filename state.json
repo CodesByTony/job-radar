@@ -10509,7 +10509,7 @@
  },
  "pages": {
   "https://spirit21.com/en/": "2e9e8cb050d7b08608035d887a152e54414c0c25",
-  "https://www.bechtle.com/karriere": "03aeace1f546d981c74fa865fd6020ef04e06862",
+  "https://www.bechtle.com/karriere": "9fd71a1b1f841505569b500f0cbc835c82df4ba5",
   "https://www.exyte.net/careers": "2f4bed76946ce7f5a6bf43c1052ef1e781caca5d"
  },
  "runs": [
@@ -10519,6 +10519,14 @@
    "fetched": 1000,
    "new": 955,
    "passed": 28,
+   "unique": 955
+  },
+  {
+   "date": "2026-10-24",
+   "feeds_ok": 0,
+   "fetched": 1000,
+   "new": 0,
+   "passed": 0,
    "unique": 955
   }
  ]
