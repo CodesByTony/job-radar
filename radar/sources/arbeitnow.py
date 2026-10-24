@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import re
+from urllib.parse import urlparse
 
 from .. import http
 from ..models import Job
@@ -16,6 +17,8 @@ def fetch_all(cfg: dict) -> list:
         if not data:
             break
         for it in data.get("data", []):
+            if urlparse(it.get("url", "")).netloc not in ("www.arbeitnow.com", "arbeitnow.com"):
+                continue  # arbeitnow.ch/.nl/.co.uk/.fr are other countries
             out.append(Job(
                 id="an:" + it.get("slug", ""), source="Arbeitnow", feed="arbeitnow", title=it.get("title", ""),
                 company=it.get("company_name", ""), location=it.get("location", ""), url=it.get("url", ""),

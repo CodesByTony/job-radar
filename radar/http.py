@@ -11,7 +11,7 @@ import requests
 
 UA = {"User-Agent": "job-radar/1.0 (personal job search tool; contact: tony275706@gmail.com)"}
 SLEEP = 0.4
-HEALTH: dict = defaultdict(lambda: {"ok": 0, "fail": 0})
+HEALTH: dict = defaultdict(lambda: {"ok": 0, "fail": 0, "err": ""})
 _session = requests.Session()
 _robots: dict = {}
 
@@ -33,6 +33,7 @@ def fetch(url: str, *, headers: dict | None = None, params: dict | None = None,
         try:
             r = _session.get(url, headers=h, params=params, timeout=timeout)
             if r.status_code in (429, 503):
+                HEALTH[host]["err"] = f"HTTP {r.status_code}"
                 time.sleep(5 * (attempt + 1))
                 continue
             r.raise_for_status()
@@ -41,6 +42,7 @@ def fetch(url: str, *, headers: dict | None = None, params: dict | None = None,
             return r.json() if as_json else r.text
         except (requests.RequestException, ValueError) as e:
             print(f"  ! {url[:100]} -> {e}", file=sys.stderr)
+            HEALTH[host]["err"] = str(e)[:200]
             time.sleep(1 + attempt)
     HEALTH[host]["fail"] += 1
     return None

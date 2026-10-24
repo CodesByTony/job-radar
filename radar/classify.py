@@ -64,10 +64,24 @@ def stated_salary_max(text: str) -> int:
     return best
 
 
-def pick_tier(low: str, kw: dict):
+GENERIC = {"rollout", "monitoring", "elastic", "recommend", "pmo", "it project", "service owner",
+           "project delivery", "reporting analyst", "process automation", "llm", "nlp", "rpa"}
+
+
+def _has(term: str, text: str) -> bool:
+    return re.search(r"(?<![a-z0-9])" + re.escape(term.lower()) + r"(?![a-z0-9])", text) is not None
+
+
+def pick_tier(low: str, kw: dict, title: str = ""):
+    """Whole-word match. Generic terms count only in the title; specific terms count anywhere
+    if they hit the title, otherwise at least two distinct specific hits are needed."""
+    t = title.lower()
     for tier, key in (("Gold", "gold"), ("Silver", "silver"), ("Bronze", "bronze")):
-        hits = [k for k in kw.get(key, []) if k.lower() in low]
-        if hits:
+        terms = kw.get(key, [])
+        title_hits = [k for k in terms if _has(k, t)]
+        body_hits = [k for k in terms if k.lower() not in GENERIC and _has(k, low)]
+        hits = title_hits + [k for k in body_hits if k not in title_hits]
+        if title_hits or len(body_hits) >= 2:
             return tier, hits
     return None, []
 
@@ -78,7 +92,7 @@ def evaluate(job: Job, cfg: dict, prefilter_only: bool = False) -> Job:
     text = f"{job.title}\n{job.desc}\n{job.tags}\n{job.salary}"
     low = text.lower()
     job.flags, job.hits = [], []
-    job.tier, job.hits = pick_tier(low, kw)
+    job.tier, job.hits = pick_tier(low, kw, job.title)
 
     def skip(reason):
         job.gate, job.reason, job.score = "Skip", reason, 0

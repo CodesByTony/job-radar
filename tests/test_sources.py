@@ -75,14 +75,21 @@ def test_ba_search_and_enrich(monkeypatch, cfg):
 
 
 def test_arbeitnow_paging(monkeypatch, cfg):
-    pages = [{"data": [{"slug": "a", "title": "T1", "company_name": "C", "location": "Berlin", "url": "u1",
+    pages = [{"data": [{"slug": "a", "title": "T1", "company_name": "C", "location": "Berlin", "url": "https://www.arbeitnow.com/jobs/a",
                         "created_at": 1, "description": "<b>x</b>", "tags": ["IT"]}], "links": {"next": "https://next"}},
-             {"data": [{"slug": "b", "title": "T2", "company_name": "C", "location": "Berlin", "url": "u2",
+             {"data": [{"slug": "b", "title": "T2", "company_name": "C", "location": "Berlin", "url": "https://www.arbeitnow.com/jobs/b",
                         "created_at": 2, "description": "y", "tags": []}], "links": {"next": None}}]
     it = iter(pages)
     monkeypatch.setattr(http, "fetch", lambda url, **k: next(it))
     jobs = arbeitnow.fetch_all(cfg)
     assert [j.id for j in jobs] == ["an:a", "an:b"] and jobs[0].tags == "IT"
+
+
+def test_arbeitnow_drops_other_countries(monkeypatch, cfg):
+    page = {"data": [{"slug": "a", "title": "T", "company_name": "C", "location": "London", "url": "https://www.arbeitnow.co.uk/jobs/a",
+                      "created_at": 1, "description": "x", "tags": []}], "links": {"next": None}}
+    monkeypatch.setattr(http, "fetch", lambda url, **k: page)
+    assert arbeitnow.fetch_all(cfg) == []
 
 
 HTML_LD = """<html><script type="application/ld+json">{"@context":"https://schema.org","@type":"JobPosting",
