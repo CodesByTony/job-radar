@@ -20,7 +20,7 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python -m radar funding
       - name: Outreach drafts (skipped while profile.yaml still has SET_ME)
-        run: python -m radar outreach || echo "outreach skipped: finish profile.yaml"
+        run: python -m radar outreach || echo "outreach skipped - finish profile.yaml"
       - name: Commit
         run: |
           git config user.name "job-radar"
