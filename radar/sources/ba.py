@@ -38,12 +38,16 @@ def search(cfg: dict) -> list:
                 was=q, size=50, page=page, veroeffentlichtseit=cfg["ba_days"], angebotsart=1))
             if not data:
                 break
-            items = data.get("stellenangebote") or []
+            items = next((data[k] for k in ("stellenangebote", "jobs", "angebote", "items", "results")
+                          if isinstance(data.get(k), list)), [])
+            if not items and page == 1:
+                note = f"{_good['search']} ok but no job list; keys={sorted(data)[:8]} sample={str(data)[:160]}"
+                http.HEALTH[http._host(BASE)]["err"] = note
             for it in items:
                 ref = it.get("refnr", "")
                 ort = it.get("arbeitsort") or {}
                 out.append(Job(
-                    id="ba:" + ref, source=SOURCE, feed="ba", title=it.get("titel") or it.get("beruf", ""),
+                    id="ba:" + ref, source=SOURCE, feed="ba", title=it.get("titel") or it.get("beruf", "") or it.get("title", ""),
                     company=it.get("arbeitgeber", ""), location=ort.get("ort", ""),
                     url="https://www.arbeitsagentur.de/jobsuche/jobdetail/" + ref,
                     apply_url=it.get("externeUrl", "") or "", date=it.get("aktuelleVeroeffentlichungsdatum", "")))
