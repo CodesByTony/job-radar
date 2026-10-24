@@ -7239,6 +7239,17 @@
    "title": "Field Accound Manager Germany North (m/w/d)",
    "url": "https://www.arbeitnow.com/jobs/companies/everfield/field-accound-manager-germany-north-336865"
   },
+  "an:field-account-executive-emea-105996": {
+   "company": "Globalizationpartners",
+   "feed": "arbeitnow",
+   "first_seen": "2026-10-24",
+   "gate": "Skip",
+   "last_seen": "2026-10-24",
+   "status": "open",
+   "tier": null,
+   "title": "Field Account Executive - EMEA",
+   "url": "https://www.arbeitnow.com/jobs/companies/globalizationpartners/field-account-executive-emea-105996"
+  },
   "an:field-account-executive-emea-421503": {
    "company": "Globalizationpartners",
    "feed": "arbeitnow",
@@ -16688,6 +16699,17 @@
    "title": "Corporate Development Director",
    "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-corporate-development-director-149841"
   },
+  "an:remote-corporate-development-director-438482": {
+   "company": "gitlab",
+   "feed": "arbeitnow",
+   "first_seen": "2026-10-24",
+   "gate": "Skip",
+   "last_seen": "2026-10-24",
+   "status": "open",
+   "tier": null,
+   "title": "Corporate Development Director",
+   "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-corporate-development-director-438482"
+  },
   "an:remote-cyber-security-consultant-uk-dionach-by-nomios-scotland-274544": {
    "company": "Nomios",
    "feed": "arbeitnow",
@@ -20559,6 +20581,17 @@
    "tier": null,
    "title": "Senior Content Marketing Manager",
    "url": "https://www.arbeitnow.co.uk/jobs/companies/taboola/senior-content-marketing-manager-london-214452"
+  },
+  "an:senior-contract-c-javascript-software-engineer-firefox-browser-engine-300146": {
+   "company": "mozilla",
+   "feed": "arbeitnow",
+   "first_seen": "2026-10-24",
+   "gate": "Skip",
+   "last_seen": "2026-10-24",
+   "status": "open",
+   "tier": null,
+   "title": "Senior Contract C++ / JavaScript Software Engineer Firefox (Browser Engine)",
+   "url": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-contract-c-javascript-software-engineer-firefox-browser-engine-300146"
   },
   "an:senior-contract-c-javascript-software-engineer-firefox-browser-engine-469856": {
    "company": "mozilla",
@@ -31068,7 +31101,7 @@
  },
  "pages": {
   "https://spirit21.com/en/": "2e9e8cb050d7b08608035d887a152e54414c0c25",
-  "https://www.bechtle.com/karriere": "523538151b8442a6980d5e3a86f65df681390e5b"
+  "https://www.bechtle.com/karriere": "175e91469350d9fb3bfd97b3f4452603cc44091b"
  },
  "runs": [
   {
@@ -31078,6 +31111,14 @@
    "new": 2824,
    "passed": 479,
    "unique": 2824
+  },
+  {
+   "date": "2026-10-24",
+   "feeds_ok": 0,
+   "fetched": 1000,
+   "new": 3,
+   "passed": 0,
+   "unique": 955
   }
  ]
 }
