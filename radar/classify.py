@@ -72,6 +72,10 @@ def _has(term: str, text: str) -> bool:
     return re.search(r"(?<![a-z0-9])" + re.escape(term.lower()) + r"(?![a-z0-9])", text) is not None
 
 
+DE_TITLE = re.compile(r"\b(m/w/d|w/m/d|m/w/x|techniker|administrator|fachinformatiker|systemintegration|"
+                      r"experte|berater|leitung|sachbearbeiter|entwickler\b|spezialist|betreuer)", re.I)
+
+
 def pick_tier(low: str, kw: dict, title: str = ""):
     """Whole-word match. Generic terms count only in the title; specific terms count anywhere
     if they hit the title, otherwise at least two distinct specific hits are needed."""
@@ -118,6 +122,9 @@ def evaluate(job: Job, cfg: dict, prefilter_only: bool = False) -> Job:
     elif german_written(job.desc):
         job.german = "Mandatory"
         job.flags.append("posting written in German")
+    elif DE_TITLE.search(job.title) and not EN_SIGNAL.search(text):
+        job.german = "Mandatory"
+        job.flags.append("German-language title")
     else:
         job.german = "Unclear"
     english = bool(EN_SIGNAL.search(text))
