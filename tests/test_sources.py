@@ -74,6 +74,22 @@ def test_ba_search_and_enrich(monkeypatch, cfg):
     assert base64.b64encode(b"10001-ABC-S").decode() in calls[1][0]
 
 
+def test_ba_falls_back_to_older_endpoint(monkeypatch, cfg):
+    seen = []
+
+    def fake(url, headers=None, params=None, **k):
+        seen.append(url)
+        if "/pc/v6/" in url:
+            return None
+        return {"stellenangebote": [{"refnr": "1-A", "titel": "T", "arbeitgeber": "X", "arbeitsort": {"ort": "Ulm"}}]}
+
+    ba._good.update(search=None, detail=None)
+    monkeypatch.setattr(http, "fetch", fake)
+    assert len(ba.search({**cfg, "ba_queries": ["x"]})) == 1
+    assert ba._good["search"] == "/pc/v4/app/jobs"
+    ba._good.update(search=None, detail=None)
+
+
 def test_arbeitnow_paging(monkeypatch, cfg):
     pages = [{"data": [{"slug": "a", "title": "T1", "company_name": "C", "location": "Berlin", "url": "https://www.arbeitnow.com/jobs/a",
                         "created_at": 1, "description": "<b>x</b>", "tags": ["IT"]}], "links": {"next": "https://next"}},

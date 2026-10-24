@@ -10,6 +10,20 @@ from ..models import Job
 BASE = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service"
 HEADERS = {"X-API-Key": "jobboerse-jobsuche"}
 SOURCE = "BA Jobbörse"
+SEARCH_PATHS = ["/pc/v6/jobs", "/pc/v4/app/jobs", "/pc/v4/jobs"]  # first one that answers is kept
+DETAIL_PATHS = ["/pc/v4/jobdetails", "/pc/v3/jobdetails"]
+_good = {"search": None, "detail": None}
+
+
+def _call(kind: str, paths: list, suffix: str, params=None):
+    """Try known endpoint versions in order; remember the one that works."""
+    order = [_good[kind]] if _good[kind] else paths
+    for pth in order:
+        data = http.fetch(BASE + pth + suffix, headers=HEADERS, params=params, retries=1)
+        if data:
+            _good[kind] = pth
+            return data
+    return None
 
 
 def _strip(html: str) -> str:
@@ -20,7 +34,7 @@ def search(cfg: dict) -> list:
     out = []
     for q in cfg["ba_queries"]:
         for page in range(1, cfg["ba_pages"] + 1):
-            data = http.fetch(f"{BASE}/pc/v4/jobs", headers=HEADERS, params=dict(
+            data = _call("search", SEARCH_PATHS, "", dict(
                 was=q, size=50, page=page, veroeffentlichtseit=cfg["ba_days"], angebotsart=1))
             if not data:
                 break
@@ -40,7 +54,7 @@ def search(cfg: dict) -> list:
 
 def enrich(job: Job) -> Job:
     ref = job.id[3:]
-    data = http.fetch(f"{BASE}/pc/v4/jobdetails/{base64.b64encode(ref.encode()).decode()}", headers=HEADERS)
+    data = _call("detail", DETAIL_PATHS, "/" + base64.b64encode(ref.encode()).decode())
     if data:
         job.desc = _strip(data.get("stellenbeschreibung", ""))
         job.salary = _strip(str(data.get("verguetungsangabe", "") or ""))
