@@ -25,6 +25,8 @@ def cmd_scan(args) -> int:
     print(md[:1500])
     if pushed or errors:
         print(f"Notion: pushed {pushed}, errors {errors}")
+    from . import mailer
+    print(mailer.send(result))
     gh = os.environ.get("GITHUB_OUTPUT")
     if gh:
         with open(gh, "a") as f:

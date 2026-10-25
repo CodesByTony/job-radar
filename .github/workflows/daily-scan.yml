@@ -1,7 +1,8 @@
 name: daily-scan
 on:
   schedule:
-    - cron: "30 5 * * *"        # 05:30 UTC = 07:30 Berlin in summer, 06:30 in winter
+    - cron: "30 4 * * *"        # 06:30 Berlin in summer (CEST)
+    - cron: "30 5 * * *"        # 06:30 Berlin in winter (CET); the guard step skips the wrong one
   workflow_dispatch: {}
 
 permissions:
@@ -18,16 +19,35 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+      - name: Guard (scheduled runs only) - run once per day, around 06:30 Berlin
+        id: gate
+        run: |
+          h=$(TZ=Europe/Berlin date +%H)
+          today=$(date -u +%F)
+          go=yes
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            if [ "$h" != "06" ] && [ "$h" != "07" ]; then go=no; fi
+            if grep -q "\"date\": \"$today\"" state.json 2>/dev/null; then go=no; fi
+          fi
+          echo "go=$go" >> "$GITHUB_OUTPUT"
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.go == 'yes'
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt
-      - run: python -m radar selfcheck
+      - if: steps.gate.outputs.go == 'yes'
+        run: pip install -r requirements.txt
+      - if: steps.gate.outputs.go == 'yes'
+        run: python -m radar selfcheck
       - id: scan
+        if: steps.gate.outputs.go == 'yes'
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
         run: python -m radar scan
       - name: Commit state and reports
+        if: steps.gate.outputs.go == 'yes'
         run: |
           git config user.name "job-radar"
           git config user.email "job-radar@users.noreply.github.com"
@@ -36,7 +56,7 @@ jobs:
           git pull --rebase origin main || true
           git push
       - name: Open digest issue (GitHub emails you)
-        if: steps.scan.outputs.passed != '0'
+        if: steps.gate.outputs.go == 'yes' && steps.scan.outputs.passed != '0'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

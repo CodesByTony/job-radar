@@ -4,7 +4,7 @@
 1. Create the private repo `CodesByTony/job-radar` (empty, no README).
 2. Claude pushes the code (or upload the zip contents).
 3. Settings > Actions > General > Workflow permissions: **Read and write**; allow GitHub Actions to create issues.
-4. Watch the repo for email notifications (Watch > All activity).
+4. **Daily e-mail (Gmail):** turn on 2-step verification for the Google account, create an app password (Google Account > Security > App passwords), then in the repo Settings > Secrets and variables > Actions add secrets `GMAIL_USER` (your Gmail address) and `GMAIL_APP_PASSWORD` (the 16-character app password). Optional `MAIL_TO` to send somewhere else. Without these secrets the scan still runs and the digest issue is still opened. Also Watch the repo (All activity) as a backup.
 5. Edit `profile.yaml`: replace the `SET_ME` availability line with one truthful sentence (start date and hours). Until then outreach drafts are not generated.
 6. Optional Notion sync: create a Notion integration, share the Jobs database with it, add the token as repository secret `NOTION_TOKEN`, set `notion.enabled: true` in `config.yaml`.
 7. Run the **daily-scan** workflow once by hand and complete the acceptance test in `03-test-plan.md`.
@@ -36,3 +36,6 @@ No login, no automation of LinkedIn, Xing, StepStone, Indeed or Glassdoor. The r
 
 ## Changes after sign-off
 Record in `docs/changes.md` with date, reason, affected requirement IDs and test updates.
+
+## Schedule
+Two crons (04:30 and 05:30 UTC) cover summer and winter time; a guard step runs the scan once a day when Berlin time is 06 or 07 and no scan has been recorded for that UTC date. Manual runs always go. GitHub may start scheduled runs 5 to 30 minutes late.
