@@ -1,123 +1,12 @@
 [
  {
-  "id": "an:product-owner-business-analyst-bochum-84748",
-  "source": "Arbeitnow",
-  "title": "Product Owner/Business Analyst (m/f/d)",
-  "company": "Trafineo",
-  "location": "Bochum, Nordrhein-Westfalen, Germany",
-  "url": "https://www.arbeitnow.com/jobs/companies/trafineo/product-owner-business-analyst-bochum-84748",
-  "apply_url": "",
-  "date": "1792864303",
-  "desc": "",
-  "tags": "Product",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Pass",
-  "reason": "",
-  "tier": "Gold",
-  "score": 80,
-  "german": "Plus",
-  "flags": [
-   "English signal"
-  ],
-  "hits": [
-   "product owner"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:it-support-specialist-berlin-437816",
-  "source": "Arbeitnow",
-  "title": "IT Support Specialist (f/m/x)",
-  "company": "Enpal",
-  "location": "Berlin",
-  "url": "https://www.arbeitnow.com/jobs/companies/enpal/it-support-specialist-berlin-437816",
-  "apply_url": "",
-  "date": "1792831214",
-  "desc": "",
-  "tags": "Tech",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Pass",
-  "reason": "",
-  "tier": "Gold",
-  "score": 78,
-  "german": "Unclear",
-  "flags": [
-   "3+ yrs"
-  ],
-  "hits": [
-   "intune",
-   "endpoint",
-   "powershell",
-   "microsoft 365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:11956-2914601792706401-S",
+  "id": "ba:13635-f416ad77_JB5280495-S",
   "source": "BA Jobbörse",
-  "title": "SoftwareOne Deutschland GmbH: M365 Consultant (gn) Modern Workplace Compliance",
-  "company": "SoftwareOne Deutschland GmbH",
+  "title": "Product Owner Loyalty (all genders)",
+  "company": "DYMATRIX GmbH",
   "location": "Stuttgart",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2914601792706401-S",
-  "apply_url": "www.Empfehlungsbund.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Pass",
-  "reason": "",
-  "tier": "Gold",
-  "score": 76,
-  "german": "Unclear",
-  "flags": [],
-  "hits": [
-   "modern workplace",
-   "m365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:technical-co-founder-ai-efficiency-at-ai-venture-berlin-172572",
-  "source": "Arbeitnow",
-  "title": "Technical Co-Founder (AI Efficiency) @ AI Venture, Berlin",
-  "company": "atlantic.vc",
-  "location": "Berlin, Berlin, Germany",
-  "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/technical-co-founder-ai-efficiency-at-ai-venture-berlin-172572",
-  "apply_url": "",
-  "date": "1792669908",
-  "desc": "",
-  "tags": "Founder & Entrepreneurs in Residence",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Pass",
-  "reason": "",
-  "tier": "Silver",
-  "score": 76,
-  "german": "Plus",
-  "flags": [
-   "English signal"
-  ],
-  "hits": [
-   "machine learning",
-   "ai engineer"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:13884-348611-S",
-  "source": "BA Jobbörse",
-  "title": "Consultant (all genders) Secure Modern Workplace",
-  "company": "PHAT CONSULTING GmbH",
-  "location": "Hamburg",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-348611-S",
-  "apply_url": "www.onapply.de",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-f416ad77_JB5280495-S",
+  "apply_url": "www.jobexport.de",
   "date": "",
   "desc": "",
   "tags": "",
@@ -130,32 +19,55 @@
   "german": "Unclear",
   "flags": [],
   "hits": [
-   "modern workplace"
+   "product owner"
   ],
   "residence": "Check salary",
   "salary_max": 0
  },
  {
-  "id": "an:product-owner-mobile-integrations-hamburg-232550",
-  "source": "Arbeitnow",
-  "title": "Product Owner - Mobile Integrations (f/m/d)",
-  "company": "adjoe",
-  "location": "Hamburg",
-  "url": "https://www.arbeitnow.com/jobs/companies/adjoe/product-owner-mobile-integrations-hamburg-232550",
-  "apply_url": "",
-  "date": "1792604416",
+  "id": "ba:15170-491827033-S",
+  "source": "BA Jobbörse",
+  "title": "Service Owner (SAP HCM) Austrian Payroll (f/m/d)",
+  "company": "Siemens Energy Global GmbH & Co. KG",
+  "location": "Erlangen",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-491827033-S",
+  "apply_url": "www.siemens-energy.com",
+  "date": "",
   "desc": "",
-  "tags": "adjoe",
-  "salary": "",
-  "feed": "arbeitnow",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
   "gate": "Pass",
   "reason": "",
   "tier": "Gold",
-  "score": 74,
+  "score": 72,
   "german": "Unclear",
-  "flags": [
-   "3+ yrs"
+  "flags": [],
+  "hits": [
+   "service owner"
   ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:19376-44527000-1022-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner:in Lebensversicherung",
+  "company": "HDI AG",
+  "location": "Hilden",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19376-44527000-1022-S",
+  "apply_url": "https://careers.hdi.group",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Pass",
+  "reason": "",
+  "tier": "Gold",
+  "score": 72,
+  "german": "Unclear",
+  "flags": [],
   "hits": [
    "product owner"
   ],
@@ -163,79 +75,49 @@
   "salary_max": 0
  },
  {
-  "id": "an:flight-data-monitoring-manager-stuttgart-228502",
-  "source": "Arbeitnow",
-  "title": "Flight Data Monitoring Manager",
-  "company": "OnTarget Communications",
-  "location": "Stuttgart",
-  "url": "https://www.arbeitnow.com/jobs/companies/ontarget-communications/flight-data-monitoring-manager-stuttgart-228502",
-  "apply_url": "",
-  "date": "1792588814",
+  "id": "ba:15170-491618853-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner – AI Forge Source-to-Contract Solutions (f/m/d)",
+  "company": "Siemens Energy Global GmbH & Co. KG",
+  "location": "Erlangen",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-491618853-S",
+  "apply_url": "www.siemens-energy.com",
+  "date": "",
   "desc": "",
-  "tags": "Logistics and transportation bachelor's degree",
-  "salary": "",
-  "feed": "arbeitnow",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
   "gate": "Pass",
   "reason": "",
   "tier": "Gold",
-  "score": 74,
+  "score": 72,
   "german": "Unclear",
   "flags": [],
   "hits": [
-   "monitoring"
+   "product owner"
   ],
   "residence": "Check salary",
   "salary_max": 0
  },
  {
-  "id": "an:ai-application-engineer-ai-products-llm-rag-berlin-377089",
-  "source": "Arbeitnow",
-  "title": "AI Application Engineer – AI Products (LLM & RAG) (m/f/d)",
-  "company": "Machine Learning Reply",
-  "location": "Berlin",
-  "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/ai-application-engineer-ai-products-llm-rag-berlin-377089",
-  "apply_url": "",
-  "date": "1792783212",
+  "id": "ba:13635-59e4c50d_JB5280489-S",
+  "source": "BA Jobbörse",
+  "title": "(Junior) Cloud Data Engineer (all genders)",
+  "company": "DYMATRIX GmbH",
+  "location": "Stuttgart",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-59e4c50d_JB5280489-S",
+  "apply_url": "www.jobexport.de",
+  "date": "",
   "desc": "",
-  "tags": "Information technology bachelor's degree",
-  "salary": "",
-  "feed": "arbeitnow",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
   "gate": "Pass",
   "reason": "",
   "tier": "Silver",
-  "score": 70,
+  "score": 71,
   "german": "Unclear",
   "flags": [],
-  "hits": [
-   "llm",
-   "machine learning",
-   "generative ai",
-   "genai"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:senior-data-engineer-healthcare-heidelberg-485630",
-  "source": "Arbeitnow",
-  "title": "Data Engineer – Healthcare",
-  "company": "PAICON",
-  "location": "Heidelberg",
-  "url": "https://www.arbeitnow.com/jobs/companies/paicon/senior-data-engineer-healthcare-heidelberg-485630",
-  "apply_url": "",
-  "date": "1792698453",
-  "desc": "",
-  "tags": "Data Processing Data Engineer",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Pass",
-  "reason": "",
-  "tier": "Silver",
-  "score": 69,
-  "german": "Unclear",
-  "flags": [
-   "English signal"
-  ],
   "hits": [
    "data engineer"
   ],
@@ -243,98 +125,18 @@
   "salary_max": 0
  },
  {
-  "id": "an:flight-dynamics-data-engineer-all-genders-munich-bavaria-123108",
-  "source": "Arbeitnow",
-  "title": "Flight Dynamics Data Engineer (All Genders)",
-  "company": "Skdse",
-  "location": "Munich, Bavaria",
-  "url": "https://www.arbeitnow.com/jobs/companies/skdse/flight-dynamics-data-engineer-all-genders-munich-bavaria-123108",
-  "apply_url": "",
-  "date": "1792832125",
+  "id": "ba:19376-44528995-1023-S",
+  "source": "BA Jobbörse",
+  "title": "AI & Automation Specialist  / AI Engineer",
+  "company": "HDI AG",
+  "location": "Hannover",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19376-44528995-1023-S",
+  "apply_url": "https://careers.hdi.group",
+  "date": "",
   "desc": "",
-  "tags": "Flight Science",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Pass",
-  "reason": "",
-  "tier": "Silver",
-  "score": 68,
-  "german": "Unclear",
-  "flags": [
-   "3+ yrs"
-  ],
-  "hits": [
-   "data engineer",
-   "machine learning"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:robot-learning-engineer-berlin-257419",
-  "source": "Arbeitnow",
-  "title": "Robot Learning Engineer",
-  "company": "Rohlik",
-  "location": "Berlin, Germany",
-  "url": "https://www.arbeitnow.com/jobs/companies/rohlik/robot-learning-engineer-berlin-257419",
-  "apply_url": "",
-  "date": "1792766418",
-  "desc": "",
-  "tags": "IT",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Pass",
-  "reason": "",
-  "tier": "Silver",
-  "score": 68,
-  "german": "Unclear",
-  "flags": [],
-  "hits": [
-   "data engineer",
-   "computer vision"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:engineering-manager-ai-group-berlin-33291",
-  "source": "Arbeitnow",
-  "title": "Engineering Manager, AI Group",
-  "company": "intercom",
-  "location": "Berlin",
-  "url": "https://www.arbeitnow.com/jobs/companies/intercom/engineering-manager-ai-group-berlin-33291",
-  "apply_url": "",
-  "date": "1792648524",
-  "desc": "",
-  "tags": "Engineering",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Pass",
-  "reason": "",
-  "tier": "Silver",
-  "score": 68,
-  "german": "Unclear",
-  "flags": [],
-  "hits": [
-   "machine learning",
-   "generative ai"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:internship-machine-learning-research-engineer-berlin-168024",
-  "source": "Arbeitnow",
-  "title": "Internship - Machine Learning Research Engineer",
-  "company": "Perplexity",
-  "location": "Berlin",
-  "url": "https://www.arbeitnow.com/jobs/companies/perplexity/internship-machine-learning-research-engineer-berlin-168024",
-  "apply_url": "",
-  "date": "1792766415",
-  "desc": "",
-  "tags": "Search",
-  "salary": "",
-  "feed": "arbeitnow",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
   "gate": "Pass",
   "reason": "",
   "tier": "Silver",
@@ -342,579 +144,57 @@
   "german": "Unclear",
   "flags": [],
   "hits": [
-   "machine learning"
+   "ai engineer"
   ],
   "residence": "Check salary",
   "salary_max": 0
  },
  {
-  "id": "an:working-student-it-operations-berlin-282027",
-  "source": "Arbeitnow",
-  "title": "Working Student IT Operations (f/m/d)",
-  "company": "SPREAD GmbH",
-  "location": "Berlin",
-  "url": "https://www.arbeitnow.com/jobs/companies/spread-gmbh/working-student-it-operations-berlin-282027",
-  "apply_url": "",
-  "date": "1792760474",
+  "id": "ba:10000-1208399729-S",
+  "source": "BA Jobbörse",
+  "title": "Generative AI Developer (m/f/d)",
+  "company": "GES.F.WISS.DATENVERARBEITUNG MBH GOETTINGEN",
+  "location": "Göttingen",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208399729-S",
+  "apply_url": "http://www.arbeitsagentur.de",
+  "date": "",
   "desc": "",
-  "tags": "Software Development",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Pass",
   "reason": "",
-  "tier": "Gold",
-  "score": 56,
-  "german": "Mandatory",
-  "flags": [
-   "English signal"
-  ],
+  "tier": "Silver",
+  "score": 64,
+  "german": "Unclear",
+  "flags": [],
   "hits": [
-   "endpoint",
-   "microsoft 365"
+   "generative ai"
   ],
   "residence": "Check salary",
   "salary_max": 0
  },
  {
-  "id": "an:system-engineer-haselunne-324130",
-  "source": "Arbeitnow",
-  "title": "System Engineer (m/w/d)",
-  "company": "MintCode Solutions GmbH",
-  "location": "Haselünne",
-  "url": "https://www.arbeitnow.com/jobs/companies/mintcode-solutions-gmbh/system-engineer-haselunne-324130",
-  "apply_url": "",
-  "date": "1792830648",
+  "id": "ba:10001-1003905171-S",
+  "source": "BA Jobbörse",
+  "title": "Junior Technical Product Owner Webshop (m/w/d) B2B-Versandhandel",
+  "company": "Jungheinrich Profishop AG & Co. KG",
+  "location": "Hamburg",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003905171-S",
+  "apply_url": "http://www.arbeitsagentur.de",
+  "date": "",
   "desc": "",
-  "tags": "System and Network Administration",
-  "salary": "",
-  "feed": "arbeitnow",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
   "gate": "Override-only",
   "reason": "",
   "tier": "Gold",
   "score": 54,
   "german": "Mandatory",
   "flags": [
-   "posting written in German"
-  ],
-  "hits": [
-   "endpoint",
-   "microsoft 365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:technikleiter-it-services-dispatch-hamburg-353973",
-  "source": "Arbeitnow",
-  "title": "Technikleiter (m/w/d) – IT-Services & Dispatch",
-  "company": "ADVANCED Systemhaus GmbH",
-  "location": "Hamburg",
-  "url": "https://www.arbeitnow.com/jobs/companies/advanced-systemhaus-gmbh/technikleiter-it-services-dispatch-hamburg-353973",
-  "apply_url": "",
-  "date": "1792744269",
-  "desc": "",
-  "tags": "Management Team Leader",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 53,
-  "german": "Mandatory",
-  "flags": [
-   "posting written in German"
-  ],
-  "hits": [
-   "endpoint",
-   "microsoft 365",
-   "m365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:information-security-officer-berlin-450911",
-  "source": "Arbeitnow",
-  "title": "Information Security Officer (f/m/d)",
-  "company": "SPREAD GmbH",
-  "location": "Berlin",
-  "url": "https://www.arbeitnow.com/jobs/companies/spread-gmbh/information-security-officer-berlin-450911",
-  "apply_url": "",
-  "date": "1792760474",
-  "desc": "",
-  "tags": "Business Operations",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 51,
-  "german": "Mandatory",
-  "flags": [
-   "3+ yrs"
-  ],
-  "hits": [
-   "endpoint",
-   "m365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:erp-cloud-spezialist-cologne-212472",
-  "source": "Arbeitnow",
-  "title": "ERP & Cloud Spezialist",
-  "company": "AJAT GmbH",
-  "location": "Cologne",
-  "url": "https://www.arbeitnow.com/jobs/companies/ajat-gmbh/erp-cloud-spezialist-cologne-212472",
-  "apply_url": "",
-  "date": "1792681298",
-  "desc": "",
-  "tags": "SAP/ERP Consulting Development",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 51,
-  "german": "Mandatory",
-  "flags": [],
-  "hits": [
-   "powershell",
-   "microsoft 365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:junior-ai-application-engineer-ai-products-llm-rag-munich-5253",
-  "source": "Arbeitnow",
-  "title": "Junior AI Application Engineer – AI Products (LLM & RAG) (m/f/d)",
-  "company": "Machine Learning Reply",
-  "location": "Munich",
-  "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-5253",
-  "apply_url": "",
-  "date": "1792783212",
-  "desc": "",
-  "tags": "Information technology bachelor's degree",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Silver",
-  "score": 50,
-  "german": "Mandatory",
-  "flags": [
-   "posting written in German"
-  ],
-  "hits": [
-   "llm",
-   "machine learning",
-   "generative ai",
-   "genai"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:10001-1003903571-S",
-  "source": "BA Jobbörse",
-  "title": "IT-Systemadministrator (m/w/d) Produktions-IT / Microsoft Intune – Direktvermittlung | Raum Nürnberg",
-  "company": "add-on personal & lösungen GmbH",
-  "location": "Nürnberg, Mittelfranken",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003903571-S",
-  "apply_url": "http://www.arbeitsagentur.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
    "German-language title"
   ],
-  "hits": [
-   "intune"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:10001-1003896266-S",
-  "source": "BA Jobbörse",
-  "title": "Microsoft 365 & Modern Workplace Administrator (m/w/d)",
-  "company": "pco GmbH & Co. KG",
-  "location": "Osnabrück",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003896266-S",
-  "apply_url": "http://www.arbeitsagentur.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "modern workplace",
-   "microsoft 365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:10001-1003887445-S",
-  "source": "BA Jobbörse",
-  "title": "Fachinformatiker Systemintegration (w/m/d) / IT-Spezialist (w/m/d) Modern Workplace",
-  "company": "Robert Half Deutschland GmbH & Co. KG",
-  "location": "München",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003887445-S",
-  "apply_url": "http://www.arbeitsagentur.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "modern workplace"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:10001-1003887191-S",
-  "source": "BA Jobbörse",
-  "title": "IT-Administrator / System Engineer(m/w/d) | Microsoft 365 & Security & Managed Services",
-  "company": "7ahead GmbH",
-  "location": "Frankfurt am Main",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003887191-S",
-  "apply_url": "http://www.arbeitsagentur.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "microsoft 365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:12862-257101-S",
-  "source": "BA Jobbörse",
-  "title": "IT-Systemadministrator (m/w/d) Modern Workplace",
-  "company": "AMADEUS FIRE AG",
-  "location": "Hamburg",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12862-257101-S",
-  "apply_url": "www.amadeus-fire.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "modern workplace"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:14418-48568-1800921-0-S",
-  "source": "BA Jobbörse",
-  "title": "Digital Workplace Specialist (m/w/d) M365 und KI",
-  "company": "Schmieder GmbH Unternehmensberatung",
-  "location": "Friedrichshafen",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14418-48568-1800921-0-S",
-  "apply_url": "www.schmieder-personal.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "digital workplace",
-   "m365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:20470-978694233-S",
-  "source": "BA Jobbörse",
-  "title": "ServiceNow Experte mit ITSM Fokus (m/w/d)",
-  "company": "Axel Springer SE",
-  "location": "Berlin",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20470-978694233-S",
-  "apply_url": "https://career.axelspringer.com/de/",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "servicenow"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:15107-44529240-1023-S",
-  "source": "BA Jobbörse",
-  "title": "ServiceNow Integration Engineer & CMDB-/CSDM-Experte (m/w/d)",
-  "company": "Landesbank Baden-Württemberg ADöR",
-  "location": "Stuttgart",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15107-44529240-1023-S",
-  "apply_url": "www.lbbw.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "servicenow"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:12098-13902134-S",
-  "source": "BA Jobbörse",
-  "title": "IT Rollout Techniker (m/w/d)",
-  "company": "TEMPTON Next Level Experts GmbH",
-  "location": "Hannover",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12098-13902134-S",
-  "apply_url": "www.TEMPTON-Engineering.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "rollout"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:13669-S25H14JTZKAEBRRA-S",
-  "source": "BA Jobbörse",
-  "title": "IT Servicetechniker (m/w/d) Rollout",
-  "company": "puro Personaldienstleistung GmbH",
-  "location": "Taufkirchen, Kreis München",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13669-S25H14JTZKAEBRRA-S",
-  "apply_url": "www.puro-personal.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "rollout"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:19886-3E150EGOSYL6XF3X-S",
-  "source": "BA Jobbörse",
-  "title": "IT Servicetechniker / Rollout Techniker (m/w/d)",
-  "company": "digatus personal GmbH",
-  "location": "Hannover",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19886-3E150EGOSYL6XF3X-S",
-  "apply_url": "www.digatus.com",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "rollout"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:19886-SCAL6PC2HIADKS5R-S",
-  "source": "BA Jobbörse",
-  "title": "IT Ausliefertechniker (m/w/d) – Rollout und Usersupport",
-  "company": "digatus personal GmbH",
-  "location": "Karlsfeld bei München",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19886-SCAL6PC2HIADKS5R-S",
-  "apply_url": "www.digatus.com",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "rollout"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:19886-O3YL7FB36VP4924P-S",
-  "source": "BA Jobbörse",
-  "title": "IT Floorwalker / Rollout Support Techniker (m/w/d)",
-  "company": "digatus personal GmbH",
-  "location": "Nürnberg, Mittelfranken",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19886-O3YL7FB36VP4924P-S",
-  "apply_url": "www.digatus.com",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "rollout"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:17724-CZ65XGSYAXUKETWO-S",
-  "source": "BA Jobbörse",
-  "title": "IT-Support / Fachinformatiker Systemintegration (m/w/d) – Rollout & Anwenderhilfe",
-  "company": "hanfried Personaldienstleistungen GmbH",
-  "location": "Bremen",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17724-CZ65XGSYAXUKETWO-S",
-  "apply_url": "www.hanfried.com",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "rollout"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:product-owner-b2b-saas-berlin-58931",
-  "source": "Arbeitnow",
-  "title": "Product Owner – B2B SaaS (m/w/d)",
-  "company": "CALIMA",
-  "location": "Berlin",
-  "url": "https://www.arbeitnow.com/jobs/companies/calima/product-owner-b2b-saas-berlin-58931",
-  "apply_url": "",
-  "date": "1792738866",
-  "desc": "",
-  "tags": "Product Management",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
-  "flags": [],
   "hits": [
    "product owner"
   ],
@@ -922,38 +202,708 @@
   "salary_max": 0
  },
  {
-  "id": "an:it-administrator-system-engineer-monchengladbach-325371",
-  "source": "Arbeitnow",
-  "title": "IT-Administrator / System Engineer (m/w/d)",
-  "company": "Hall Tabakwaren e.K",
-  "location": "Mönchengladbach, Nordrhein-Westfalen, Deutschland",
-  "url": "https://www.arbeitnow.com/jobs/companies/hall-tabakwaren-ek/it-administrator-system-engineer-monchengladbach-325371",
-  "apply_url": "",
-  "date": "1792669906",
+  "id": "ba:19376-44528984-1023-S",
+  "source": "BA Jobbörse",
+  "title": "Business Intelligence Specialist / Business Analyst",
+  "company": "HDI AG",
+  "location": "Hannover",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19376-44528984-1023-S",
+  "apply_url": "https://careers.hdi.group",
+  "date": "",
   "desc": "",
-  "tags": "Innendienst",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Pass",
   "reason": "",
-  "tier": "Gold",
-  "score": 49,
-  "german": "Mandatory",
+  "tier": "Bronze",
+  "score": 54,
+  "german": "Unclear",
   "flags": [],
   "hits": [
-   "powershell",
-   "microsoft 365"
+   "business analyst"
   ],
   "residence": "Check salary",
   "salary_max": 0
  },
  {
-  "id": "ba:10001-1003881494-S",
+  "id": "ba:15412-108550X353518-S",
   "source": "BA Jobbörse",
-  "title": "Administrator Softwarebereitstellung / Microsoft 365 m/w/d",
-  "company": "TeamPower Personaldienstleistungs GmbH",
-  "location": "Pforzheim",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003881494-S",
+  "title": "Global Salesforce Business Analyst & Admin (m/f/d) – Customer Service & Platform",
+  "company": "Fresenius SE & Co. KG aA",
+  "location": "Bad Homburg vor der Höhe",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15412-108550X353518-S",
+  "apply_url": "www.fresenius.com",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Pass",
+  "reason": "",
+  "tier": "Bronze",
+  "score": 52,
+  "german": "Unclear",
+  "flags": [],
+  "hits": [
+   "business analyst"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:15412-108659X353694-S",
+  "source": "BA Jobbörse",
+  "title": "Global Salesforce Business Analyst & Admin (m/f/d) – Sales",
+  "company": "Fresenius SE & Co. KG aA",
+  "location": "Bad Homburg vor der Höhe",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15412-108659X353694-S",
+  "apply_url": "www.fresenius.com",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Pass",
+  "reason": "",
+  "tier": "Bronze",
+  "score": 52,
+  "german": "Unclear",
+  "flags": [],
+  "hits": [
+   "business analyst"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12288-4976659983-S",
+  "source": "BA Jobbörse",
+  "title": "Sachbearbeiter*in Projektmanagement Office (PMO)",
+  "company": "Stromnetz Berlin GmbH",
+  "location": "Berlin",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4976659983-S",
+  "apply_url": "www.xing.com",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "pmo"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:10001-1003884756-S",
+  "source": "BA Jobbörse",
+  "title": "Teilprojektleiter ITSM / Product Owner (m/w/d)",
+  "company": "shoob.de",
+  "location": "Bonn",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003884756-S",
+  "apply_url": "http://www.arbeitsagentur.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:14340-492261706-S",
+  "source": "BA Jobbörse",
+  "title": "IT Project Manager (m/w/d)",
+  "company": "DHL AG Zentrale",
+  "location": "Bonn",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14340-492261706-S",
+  "apply_url": "www.dpdhl.com",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "it project"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:13509-0000211169b001-S",
+  "source": "BA Jobbörse",
+  "title": "IT Project & Program Manager (m/w/d)",
+  "company": "BWI GmbH",
+  "location": "Hamburg",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13509-0000211169b001-S",
+  "apply_url": "www.bwi.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "it project"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:11868-13902764-S",
+  "source": "BA Jobbörse",
+  "title": "IT Projekt Manager (PMO) (m/w/d)",
+  "company": "I. K. Hofmann GmbH",
+  "location": "Bonn",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11868-13902764-S",
+  "apply_url": "http://jobportal.hofmann.info",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "pmo"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12811-2360337-S",
+  "source": "BA Jobbörse",
+  "title": "Internationaler IT Project Manager (m/w/d) für Biometrie Lösungen | fran..., DERMALOG Identificat...",
+  "company": "DERMALOG Identification Systems GmbH",
+  "location": "Hamburg",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2360337-S",
+  "apply_url": "www.finest-jobs.com",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "it project"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12288-4973759125-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner IT Service Management (m/w/d)",
+  "company": "YER",
+  "location": "Bonn",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4973759125-S",
+  "apply_url": "www.xing.com",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12265-281925_JB5280707-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner (m/w/d)",
+  "company": "FERCHAU GmbH Niederlassung Stuttgart Mobility",
+  "location": "Stuttgart",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-281925_JB5280707-S",
+  "apply_url": "www.ferchau.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:13660-977778709-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner (w/m/d)",
+  "company": "RTL Deutschland GmbH",
+  "location": "Köln",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13660-977778709-S",
+  "apply_url": "www.createyourowncareer.com",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12265-402142_JB5280685-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner Industrial Engineering (m/w/d)",
+  "company": "FERCHAU GmbH Niederlassung Darmstadt",
+  "location": "Darmstadt",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-402142_JB5280685-S",
+  "apply_url": "www.ferchau.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:10001-1003874375-S",
+  "source": "BA Jobbörse",
+  "title": "Digitales Produktmanagement/Product Owner (w/m/d)",
+  "company": "Verbraucherzentrale NRW e.V. Geschäftsstelle",
+  "location": "Düsseldorf",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003874375-S",
+  "apply_url": "http://www.arbeitsagentur.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12787-263550191026-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner \"People Insights & Analytics\" (w/m/d)",
+  "company": "dmTECH GmbH",
+  "location": "Karlsruhe, Baden",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-263550191026-S",
+  "apply_url": "www.dm.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12265-515428_JB5277157-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner Digitale Finanzlösungen (m/w/d) in Direktvermittlung",
+  "company": "FERCHAU GmbH Niederlassung Stuttgart Automotive",
+  "location": "Stuttgart",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-515428_JB5277157-S",
+  "apply_url": "www.ferchau.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 49,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:15939-BB-635689-7878-5920-S",
+  "source": "BA Jobbörse",
+  "title": "Service IT Project Implementation Manager (m/w/d)",
+  "company": "Rheinmetall AG",
+  "location": "Unterlüß",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-635689-7878-5920-S",
+  "apply_url": "www.rheinmetall.com",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "it project"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:13644-313693-S",
+  "source": "BA Jobbörse",
+  "title": "SAP PMO - Project Management Officer (m/w/d)",
+  "company": "BA Business Advice GmbH",
+  "location": "Oldenburg (Oldb)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-313693-S",
+  "apply_url": "www.get-in-IT.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "pmo"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12362-TR269681_4981CS-S",
+  "source": "BA Jobbörse",
+  "title": "IT Project Manager (w/m/d)",
+  "company": "Brunel GmbH NL Braunschweig",
+  "location": "Braunschweig",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR269681_4981CS-S",
+  "apply_url": "www.brunel.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "it project"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:16602-e53b69581831645f-S",
+  "source": "BA Jobbörse",
+  "title": "IT Project Manager (m/w/d) WMS-Team",
+  "company": "Nagel-Group Logistics SE",
+  "location": "Borgholzhausen",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16602-e53b69581831645f-S",
+  "apply_url": "www.nagel-group.com",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "it project"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12265-518467_JB5276913-S",
+  "source": "BA Jobbörse",
+  "title": "Manager IT PMO & Governance (m/w/d)",
+  "company": "FERCHAU GmbH Niederlassung Friedrichshafen",
+  "location": "Friedrichshafen",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-518467_JB5276913-S",
+  "apply_url": "www.ferchau.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "pmo"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:10001-1003888876-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner (m/w/d)",
+  "company": "Advancis Software & Services GmbH",
+  "location": "Langen (Hessen)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003888876-S",
+  "apply_url": "http://www.arbeitsagentur.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12811-2362648-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner (m/w/d) Service Center IT, Treppendorf",
+  "company": "Thomann GmbH",
+  "location": "Burgebrach",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2362648-S",
+  "apply_url": "www.finest-jobs.com",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12362-TR269678_4967CS-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner (w/m/d)",
+  "company": "Brunel GmbH NL Braunschweig",
+  "location": "Celle",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR269678_4967CS-S",
+  "apply_url": "www.brunel.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:16522-JOB-76644-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner / Projektkoordinator*in in der Software-Entwicklung(w/m/d)",
+  "company": "Georg-August-Universität Zentr. Universitätsverwaltung",
+  "location": "Göttingen",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16522-JOB-76644-S",
+  "apply_url": "www.uni-goettingen.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12265-301174_JB5280740-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner (m/w/d)",
+  "company": "FERCHAU GmbH Niederlassung Bielefeld",
+  "location": "Bielefeld",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-301174_JB5280740-S",
+  "apply_url": "www.ferchau.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Gold",
+  "score": 47,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "product owner"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:10001-1003879926-S",
+  "source": "BA Jobbörse",
+  "title": "Product Owner Kassen-App (m/w/d)",
+  "company": "PHOENIX Pharmahandel GmbH & Co. KG",
+  "location": "Mannheim",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003879926-S",
   "apply_url": "http://www.arbeitsagentur.de",
   "date": "",
   "desc": "",
@@ -969,73 +919,19 @@
    "German-language title"
   ],
   "hits": [
-   "microsoft 365"
+   "product owner"
   ],
   "residence": "Check salary",
   "salary_max": 0
  },
  {
-  "id": "ba:12601-12157-1800678-0-S",
+  "id": "ba:12265-515893_JB5280860-S",
   "source": "BA Jobbörse",
-  "title": "IT Systemadministrator Microsoft 365 und Active Directory (m/w/d)",
-  "company": "LZ Informatik",
-  "location": "Fürth, Bayern",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12601-12157-1800678-0-S",
-  "apply_url": "www.lorenz-personal.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 47,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "microsoft 365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:17336-0068304883-S",
-  "source": "BA Jobbörse",
-  "title": "IT System Engineer (m/w/d) – Endpoint Management & Infrastructure",
-  "company": "LOXXESS AG",
-  "location": "Ebermannsdorf",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17336-0068304883-S",
-  "apply_url": "www.loxxess.com",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 47,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "endpoint"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:14418-48548-1800892-0-S",
-  "source": "BA Jobbörse",
-  "title": "IT Consultant (m/w/d) Digital Workplace",
-  "company": "Schmieder GmbH Unternehmensberatung",
-  "location": "Ravensburg, Württemberg",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14418-48548-1800892-0-S",
-  "apply_url": "www.schmieder-personal.de",
+  "title": "Product Owner HMI (m/w/d)",
+  "company": "FERCHAU GmbH Niederlassung Osnabrück",
+  "location": "Damme, Dümmer",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-515893_JB5280860-S",
+  "apply_url": "www.ferchau.de",
   "date": "",
   "desc": "",
   "tags": "",
@@ -1050,19 +946,19 @@
    "German-language title"
   ],
   "hits": [
-   "digital workplace"
+   "product owner"
   ],
   "residence": "Check salary",
   "salary_max": 0
  },
  {
-  "id": "ba:14418-48622-1801160-0-S",
+  "id": "ba:12908-062491513-S",
   "source": "BA Jobbörse",
-  "title": "IT Systemadministrator (m/w/d) Workplace Endpoint Management",
-  "company": "Schmieder GmbH Unternehmensberatung",
-  "location": "Ravensburg, Württemberg",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14418-48622-1801160-0-S",
-  "apply_url": "www.schmieder-personal.de",
+  "title": "Product Owner (w/m/d) - Virtuelles Kraftwerk - Software für Energieerzeugungsanlagen",
+  "company": "emsys VPP GmbH",
+  "location": "Oldenburg (Oldb)",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-062491513-S",
+  "apply_url": "www.jobware.de",
   "date": "",
   "desc": "",
   "tags": "",
@@ -1077,77 +973,23 @@
    "German-language title"
   ],
   "hits": [
-   "endpoint"
+   "product owner"
   ],
   "residence": "Check salary",
   "salary_max": 0
  },
  {
-  "id": "ba:12688-REG-42590-RJA-S",
+  "id": "ba:11956-3002081792879201-S",
   "source": "BA Jobbörse",
-  "title": "Systemadministrator (Front Office / Modern Workplace & Automation) (m/w/d)",
-  "company": "Welbilt Deutschland GmbH",
-  "location": "Herborn, Hessen",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-REG-42590-RJA-S",
-  "apply_url": "www.regio-jobanzeiger.de",
+  "title": "accompio GmbH: Digitalisierungsexpert:in M365 & Copilot (m/w/d)",
+  "company": "accompio GmbH",
+  "location": "Augsburg, Bayern",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3002081792879201-S",
+  "apply_url": "www.Empfehlungsbund.de",
   "date": "",
   "desc": "",
   "tags": "",
   "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 47,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "modern workplace"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:13326-8720-1800789-0-S",
-  "source": "BA Jobbörse",
-  "title": "IT System Engineer (m/w/d) - Microsoft 365 & Windows Server",
-  "company": "FlexIT Consulting GmbH",
-  "location": "",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13326-8720-1800789-0-S",
-  "apply_url": "www.flexit-consulting.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 47,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "microsoft 365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:14418-48549-1800895-0-S",
-  "source": "BA Jobbörse",
-  "title": "Account Manager (m/w/d) M365",
-  "company": "Schmieder GmbH Unternehmensberatung",
-  "location": "Ravensburg, Württemberg",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14418-48549-1800895-0-S",
-  "apply_url": "www.schmieder-personal.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
   "feed": "ba",
   "gate": "Override-only",
   "reason": "",
@@ -1164,13 +1006,13 @@
   "salary_max": 0
  },
  {
-  "id": "ba:13243-SDE-119711-JB-S",
+  "id": "ba:21046-16846234-S",
   "source": "BA Jobbörse",
-  "title": "Specialist (m/w/d) Digital Workplace",
-  "company": "Bauerfeind AG",
-  "location": "Zeulenroda-Triebes",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13243-SDE-119711-JB-S",
-  "apply_url": "www.jobblitz.de",
+  "title": "ML-Engineer (m/w/d) – Machine Learning für Recyclinganlagen",
+  "company": "Eggersmann Gruppe GmbH & Co. KG / SO Halle",
+  "location": "Aachen",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21046-16846234-S",
+  "apply_url": "www.eggersmann-group.com",
   "date": "",
   "desc": "",
   "tags": "",
@@ -1178,25 +1020,430 @@
   "feed": "ba",
   "gate": "Override-only",
   "reason": "",
-  "tier": "Gold",
-  "score": 47,
+  "tier": "Silver",
+  "score": 41,
   "german": "Mandatory",
   "flags": [
    "German-language title"
   ],
   "hits": [
-   "digital workplace"
+   "machine learning"
   ],
   "residence": "Check salary",
   "salary_max": 0
  },
  {
-  "id": "ba:13319-898810/1_5287CS-S",
+  "id": "ba:12951-6433d5a2-a1da-4695--S",
   "source": "BA Jobbörse",
-  "title": "Abteilungsleitung Digital Workplace & Infrastructure (m/w/d)",
-  "company": "Hays AG",
+  "title": "AI & Machine Learning Engineer (m/w/d)",
+  "company": "MONTANA Energie-Handel GmbH & Co. KG",
+  "location": "München",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-6433d5a2-a1da-4695--S",
+  "apply_url": "www.heyjobs.co/de-de/jobs",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 41,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "machine learning"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12456-1646723-1-S",
+  "source": "BA Jobbörse",
+  "title": "Software Development Specialist (Python) Machine Learning for Railway Traffic Optimization (w/m/d)",
+  "company": "DB Zeitarbeit GmbH",
+  "location": "Berlin",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1646723-1-S",
+  "apply_url": "www.deutschebahn.com/Karriere",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 41,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "machine learning"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:21211-WP13555-R2-S",
+  "source": "BA Jobbörse",
+  "title": "AI Engineer (m/w/d) Köln",
+  "company": "Expert Select GmbH",
+  "location": "Köln",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21211-WP13555-R2-S",
+  "apply_url": "https://expert-select.com/",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "STUNDENLOHN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 41,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "ai engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:21211-WP13556-R2-S",
+  "source": "BA Jobbörse",
+  "title": "AI Engineer (m/w/d) Düsseldorf",
+  "company": "Expert Select GmbH",
+  "location": "Düsseldorf",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21211-WP13556-R2-S",
+  "apply_url": "https://expert-select.com/",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "STUNDENLOHN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 41,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "ai engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:21211-WP13561-R2-S",
+  "source": "BA Jobbörse",
+  "title": "AI Engineer (m/w/d) Darmstadt",
+  "company": "Expert Select GmbH",
+  "location": "Darmstadt",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21211-WP13561-R2-S",
+  "apply_url": "https://expert-select.com/",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "STUNDENLOHN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 41,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "ai engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:21211-WP13564-R2-S",
+  "source": "BA Jobbörse",
+  "title": "AI Engineer (m/w/d) Stuttgart",
+  "company": "Expert Select GmbH",
+  "location": "Stuttgart",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21211-WP13564-R2-S",
+  "apply_url": "https://expert-select.com/",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "STUNDENLOHN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 41,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "ai engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:21211-WP13563-R2-S",
+  "source": "BA Jobbörse",
+  "title": "AI Engineer (m/w/d) Karlsruhe, Baden-Württemberg",
+  "company": "Expert Select GmbH",
+  "location": "Karlsruhe, Baden",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21211-WP13563-R2-S",
+  "apply_url": "https://expert-select.com/",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "STUNDENLOHN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 41,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "ai engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:21211-WP13559-R2-S",
+  "source": "BA Jobbörse",
+  "title": "AI Engineer (m/w/d) Frankfurt am Main, Hessen",
+  "company": "Expert Select GmbH",
+  "location": "Frankfurt am Main",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21211-WP13559-R2-S",
+  "apply_url": "https://expert-select.com/",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "STUNDENLOHN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 41,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "ai engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12362-TR249390_4973CS-S",
+  "source": "BA Jobbörse",
+  "title": "Machine Learning Engineer (w/m/d)",
+  "company": "Brunel GmbH NL Braunschweig",
+  "location": "Braunschweig",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR249390_4973CS-S",
+  "apply_url": "www.brunel.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "KEINE_ANGABEN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 39,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "machine learning"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12265-521644_JB5276897-S",
+  "source": "BA Jobbörse",
+  "title": "AI Engineer (m/w/d)",
+  "company": "FERCHAU GmbH Niederlassung Rosenheim",
+  "location": "Wasserburg am Inn",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-521644_JB5276897-S",
+  "apply_url": "www.ferchau.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 39,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "ai engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:21211-WP13557-R2-S",
+  "source": "BA Jobbörse",
+  "title": "AI Engineer (m/w/d) Dortmund",
+  "company": "Expert Select GmbH",
+  "location": "Dortmund",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21211-WP13557-R2-S",
+  "apply_url": "https://expert-select.com/",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "STUNDENLOHN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 39,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "ai engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:21211-WP13558-R2-S",
+  "source": "BA Jobbörse",
+  "title": "AI Engineer (m/w/d) Essen",
+  "company": "Expert Select GmbH",
+  "location": "Essen, Ruhr",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21211-WP13558-R2-S",
+  "apply_url": "https://expert-select.com/",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "STUNDENLOHN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 39,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "ai engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:21211-WP13560-R2-S",
+  "source": "BA Jobbörse",
+  "title": "AI Engineer (m/w/d) Mainz am Rhein",
+  "company": "Expert Select GmbH",
   "location": "Mainz am Rhein",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-898810/1_5287CS-S",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21211-WP13560-R2-S",
+  "apply_url": "https://expert-select.com/",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "STUNDENLOHN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 39,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "ai engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:21211-WP13562-R2-S",
+  "source": "BA Jobbörse",
+  "title": "AI Engineer (m/w/d) in Ludwigshafen am Rhein",
+  "company": "Expert Select GmbH",
+  "location": "Ludwigshafen am Rhein",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21211-WP13562-R2-S",
+  "apply_url": "https://expert-select.com/",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "STUNDENLOHN",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Silver",
+  "score": 39,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "ai engineer"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:12265-508540_JB5276982-S",
+  "source": "BA Jobbörse",
+  "title": "IT Business Analyst (m/w/d) in Direktvermittlung",
+  "company": "FERCHAU GmbH Niederlassung Stuttgart Automotive",
+  "location": "Stuttgart",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-508540_JB5276982-S",
+  "apply_url": "www.ferchau.de",
+  "date": "",
+  "desc": "",
+  "tags": "",
+  "salary": "JAHRESGEHALT",
+  "feed": "ba",
+  "gate": "Override-only",
+  "reason": "",
+  "tier": "Bronze",
+  "score": 29,
+  "german": "Mandatory",
+  "flags": [
+   "German-language title"
+  ],
+  "hits": [
+   "business analyst"
+  ],
+  "residence": "Check salary",
+  "salary_max": 0
+ },
+ {
+  "id": "ba:13319-899003/1_5346CS-S",
+  "source": "BA Jobbörse",
+  "title": "IT Business Analyst im Versicherungssektor (m/w/d)",
+  "company": "Hays AG",
+  "location": "Wien",
+  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-899003/1_5346CS-S",
   "apply_url": "www.hays.de",
   "date": "",
   "desc": "",
@@ -1205,458 +1452,12 @@
   "feed": "ba",
   "gate": "Override-only",
   "reason": "",
-  "tier": "Gold",
-  "score": 47,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "digital workplace"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:10001-1003877635-S",
-  "source": "BA Jobbörse",
-  "title": "Consultant Microsoft 365 (m/w/d) Digitale Zusammenarbeit gestalten",
-  "company": "IPI GmbH",
-  "location": "Ansbach, Mittelfranken",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003877635-S",
-  "apply_url": "http://www.arbeitsagentur.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 47,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "microsoft 365"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:16236-978452871-S",
-  "source": "BA Jobbörse",
-  "title": "Consultant ServiceNow (m/w/d)",
-  "company": "Sopra Steria SE",
-  "location": "",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16236-978452871-S",
-  "apply_url": "www.soprasteria.com",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 47,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "servicenow"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:12265-521692_JB5280943-S",
-  "source": "BA Jobbörse",
-  "title": "ServiceNow Consultant - Enterprise Service Management (m/w/d)",
-  "company": "FERCHAU Management GmbH",
-  "location": "Gummersbach",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-521692_JB5280943-S",
-  "apply_url": "www.ferchau.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 47,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "servicenow"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:12265-521701_JB5277192-S",
-  "source": "BA Jobbörse",
-  "title": "ServiceNow Administrator - Enterprise Service Management (m/w/d)",
-  "company": "FERCHAU Management GmbH",
-  "location": "Gummersbach",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-521701_JB5277192-S",
-  "apply_url": "www.ferchau.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "JAHRESGEHALT",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 47,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "servicenow"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:13669-98WPLP1CK1PDPIY7-S",
-  "source": "BA Jobbörse",
-  "title": "IT Rollout Techniker (m/w/d) Braunschweig",
-  "company": "puro Personaldienstleistung GmbH",
-  "location": "Braunschweig",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13669-98WPLP1CK1PDPIY7-S",
-  "apply_url": "www.puro-personal.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 47,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "rollout"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:13669-DM07VSP14V114ISY-S",
-  "source": "BA Jobbörse",
-  "title": "IT Rollout Techniker (m/w/d) Wolfsburg ",
-  "company": "puro Personaldienstleistung GmbH",
-  "location": "Wolfsburg",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13669-DM07VSP14V114ISY-S",
-  "apply_url": "www.puro-personal.de",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 47,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "rollout"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:17724-AS5TBBUU1ACSOTRR-S",
-  "source": "BA Jobbörse",
-  "title": "IT-Service-Techniker (m/w/d) – Rollout – Standort Wolfsburg",
-  "company": "hanfried Personaldienstleistungen GmbH",
-  "location": "Wolfsburg",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17724-AS5TBBUU1ACSOTRR-S",
-  "apply_url": "www.hanfried.com",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "STUNDENLOHN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Gold",
-  "score": 47,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "rollout"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:devops-ml-engineer-munich-245161",
-  "source": "Arbeitnow",
-  "title": "DevOps/ML Engineer (m/f/d)",
-  "company": "Machine Learning Reply",
-  "location": "Munich",
-  "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/devops-ml-engineer-munich-245161",
-  "apply_url": "",
-  "date": "1792783212",
-  "desc": "",
-  "tags": "Information technology bachelor's degree",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Silver",
-  "score": 45,
-  "german": "Mandatory",
-  "flags": [],
-  "hits": [
-   "ml engineer",
-   "machine learning",
-   "databricks"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:agentic-ai-software-engineer-munich-122621",
-  "source": "Arbeitnow",
-  "title": "Agentic AI Software Engineer",
-  "company": "Machine Learning Reply",
-  "location": "Munich, Bayern, Germany",
-  "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-122621",
-  "apply_url": "",
-  "date": "1792756287",
-  "desc": "",
-  "tags": "Data Frameworks",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Silver",
-  "score": 43,
-  "german": "Mandatory",
-  "flags": [],
-  "hits": [
-   "machine learning",
-   "generative ai"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "ba:19522-0068291613-S",
-  "source": "BA Jobbörse",
-  "title": "AI Engineer – KI-Enablement & Solutions (m/w/d)",
-  "company": "Löwenstein Med.Techn.GmbH+Co.KG",
-  "location": "Hamburg",
-  "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19522-0068291613-S",
-  "apply_url": "www.loewensteinmedical.com/de-de/",
-  "date": "",
-  "desc": "",
-  "tags": "",
-  "salary": "KEINE_ANGABEN",
-  "feed": "ba",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Silver",
-  "score": 41,
-  "german": "Mandatory",
-  "flags": [
-   "German-language title"
-  ],
-  "hits": [
-   "ai engineer"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:forward-deployed-ai-engineer-cologne-71052",
-  "source": "Arbeitnow",
-  "title": "Forward Deployed AI Engineer (w/d/m)",
-  "company": "WEBUILDAI GmbH",
-  "location": "Cologne",
-  "url": "https://www.arbeitnow.com/jobs/companies/webuildai-gmbh/forward-deployed-ai-engineer-cologne-71052",
-  "apply_url": "",
-  "date": "1792776655",
-  "desc": "",
-  "tags": "Software Development",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Silver",
-  "score": 41,
-  "german": "Mandatory",
-  "flags": [],
-  "hits": [
-   "ai engineer"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:machine-learning-consultant-munich-150083",
-  "source": "Arbeitnow",
-  "title": "Machine Learning Consultant (m/w/d)",
-  "company": "Machine Learning Reply",
-  "location": "Munich, Bayern, Germany",
-  "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/machine-learning-consultant-munich-150083",
-  "apply_url": "",
-  "date": "1792756287",
-  "desc": "",
-  "tags": "Data Frameworks",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Silver",
-  "score": 41,
-  "german": "Mandatory",
-  "flags": [],
-  "hits": [
-   "machine learning"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:junior-consultant-im-bereich-strategie-business-analyst-cologne-58688",
-  "source": "Arbeitnow",
-  "title": "Junior Consultant (m/w/d) im Bereich Strategie / Business Analyst",
-  "company": "OSCAR GmbH",
-  "location": "Cologne",
-  "url": "https://www.arbeitnow.com/jobs/companies/oscar-gmbh/junior-consultant-im-bereich-strategie-business-analyst-cologne-58688",
-  "apply_url": "",
-  "date": "1792679458",
-  "desc": "",
-  "tags": "Consulting",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
   "tier": "Bronze",
-  "score": 34,
-  "german": "Mandatory",
-  "flags": [],
-  "hits": [
-   "business analyst"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:business-analyst-gn-berlin-104193",
-  "source": "Arbeitnow",
-  "title": "Business Analyst (gn)",
-  "company": "New Monday GmbH",
-  "location": "Berlin",
-  "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/business-analyst-gn-berlin-104193",
-  "apply_url": "",
-  "date": "1792663257",
-  "desc": "",
-  "tags": "Remote Business Analyst",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Bronze",
-  "score": 29,
+  "score": 27,
   "german": "Mandatory",
   "flags": [
-   "posting written in German"
+   "German-language title"
   ],
-  "hits": [
-   "business analyst"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:business-consultant-it-business-analyst-banking-insurance-berlin-352096",
-  "source": "Arbeitnow",
-  "title": "Business Consultant / IT Business Analyst - Banking & Insurance (w/m/d)",
-  "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
-  "location": "Berlin",
-  "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/business-consultant-it-business-analyst-banking-insurance-berlin-352096",
-  "apply_url": "",
-  "date": "1792652465",
-  "desc": "",
-  "tags": "Remote Business Analyst",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Bronze",
-  "score": 29,
-  "german": "Mandatory",
-  "flags": [],
-  "hits": [
-   "business analyst"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:meldewesenspezialistin-it-business-analyst-berlin-186616",
-  "source": "Arbeitnow",
-  "title": "Meldewesenspezialist:in / IT Business Analyst (w/m/d)",
-  "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
-  "location": "Berlin",
-  "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/meldewesenspezialistin-it-business-analyst-berlin-186616",
-  "apply_url": "",
-  "date": "1792652465",
-  "desc": "",
-  "tags": "Remote Business Consulting",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Bronze",
-  "score": 29,
-  "german": "Mandatory",
-  "flags": [],
-  "hits": [
-   "business analyst"
-  ],
-  "residence": "Check salary",
-  "salary_max": 0
- },
- {
-  "id": "an:it-business-analyst-berlin-114521",
-  "source": "Arbeitnow",
-  "title": "IT Business Analyst (w/m/d)",
-  "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
-  "location": "Berlin",
-  "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/it-business-analyst-berlin-114521",
-  "apply_url": "",
-  "date": "1792652465",
-  "desc": "",
-  "tags": "Remote Business Analyst",
-  "salary": "",
-  "feed": "arbeitnow",
-  "gate": "Override-only",
-  "reason": "",
-  "tier": "Bronze",
-  "score": 29,
-  "german": "Mandatory",
-  "flags": [],
   "hits": [
    "business analyst"
   ],

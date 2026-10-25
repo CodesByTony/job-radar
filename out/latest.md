@@ -1,10 +1,10 @@
-# Job radar 2026-10-24
+# Job radar 2026-10-25
 
-Fetched 1763, unique 1577, new 1234, passed gates 62, feeds ok 0.
+Fetched 1732, unique 1481, new 236, passed gates 55, feeds ok 0.
 
 <details><summary>Source health (ok/fail calls per host)</summary>
 
-- rest.arbeitsagentur.de: 177 ok / 0 failed (last error: /pc/v6/jobs ok but no job list; keys=['facetten', 'maxErgebnisse', 'page', 'size'] sample={'maxErgebnisse': 0, 'page': 1, 'size': 50, 'facetten': {'veroeffentlichtseit': {'counts': {'28': 1, 'alle': 1}, 'maxCount': 1}}})
+- rest.arbeitsagentur.de: 176 ok / 0 failed (last error: /pc/v6/jobs ok but no job list; keys=['facetten', 'maxErgebnisse', 'page', 'size'] sample={'maxErgebnisse': 0, 'page': 1, 'size': 50, 'facetten': {'veroeffentlichtseit': {'counts': {'28': 1, 'alle': 1}, 'maxCount': 1}}})
 - spirit21.com: 2 ok / 0 failed
 - www.arbeitnow.com: 10 ok / 0 failed
 - www.bechtle.com: 2 ok / 0 failed
@@ -12,70 +12,67 @@ Fetched 1763, unique 1577, new 1234, passed gates 62, feeds ok 0.
 
 </details>
 
-## Gold (6)
+## Gold (4)
 
-- **Product Owner/Business Analyst (m/f/d)** | Trafineo | Bochum, Nordrhein-Westfalen, Germany | score 80 | English signal | German: Plus | Check salary  
-  https://www.arbeitnow.com/jobs/companies/trafineo/product-owner-business-analyst-bochum-84748
-- **IT Support Specialist (f/m/x)** | Enpal | Berlin | score 78 | 3+ yrs | German: Unclear | Check salary  
-  https://www.arbeitnow.com/jobs/companies/enpal/it-support-specialist-berlin-437816
-- **SoftwareOne Deutschland GmbH: M365 Consultant (gn) Modern Workplace Compliance** | SoftwareOne Deutschland GmbH | Stuttgart | score 76 | German: Unclear | Check salary  
-  https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2914601792706401-S
-- **Consultant (all genders) Secure Modern Workplace** | PHAT CONSULTING GmbH | Hamburg | score 74 | German: Unclear | Check salary  
-  https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-348611-S
-- **Product Owner - Mobile Integrations (f/m/d)** | adjoe | Hamburg | score 74 | 3+ yrs | German: Unclear | Check salary  
-  https://www.arbeitnow.com/jobs/companies/adjoe/product-owner-mobile-integrations-hamburg-232550
-- **Flight Data Monitoring Manager** | OnTarget Communications | Stuttgart | score 74 | German: Unclear | Check salary  
-  https://www.arbeitnow.com/jobs/companies/ontarget-communications/flight-data-monitoring-manager-stuttgart-228502
+- **Product Owner Loyalty (all genders)** | DYMATRIX GmbH | Stuttgart | score 74 | German: Unclear | Check salary  
+  https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-f416ad77_JB5280495-S
+- **Service Owner (SAP HCM) Austrian Payroll (f/m/d)** | Siemens Energy Global GmbH & Co. KG | Erlangen | score 72 | German: Unclear | Check salary  
+  https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-491827033-S
+- **Product Owner:in Lebensversicherung** | HDI AG | Hilden | score 72 | German: Unclear | Check salary  
+  https://www.arbeitsagentur.de/jobsuche/jobdetail/19376-44527000-1022-S
+- **Product Owner – AI Forge Source-to-Contract Solutions (f/m/d)** | Siemens Energy Global GmbH & Co. KG | Erlangen | score 72 | German: Unclear | Check salary  
+  https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-491618853-S
 
-## Silver (7)
+## Silver (3)
 
-- **Technical Co-Founder (AI Efficiency) @ AI Venture, Berlin** | atlantic.vc | Berlin, Berlin, Germany | score 76 | English signal | German: Plus | Check salary  
-  https://www.arbeitnow.com/jobs/companies/atlanticvc/technical-co-founder-ai-efficiency-at-ai-venture-berlin-172572
-- **AI Application Engineer – AI Products (LLM & RAG) (m/f/d)** | Machine Learning Reply | Berlin | score 70 | German: Unclear | Check salary  
-  https://www.arbeitnow.com/jobs/companies/machine-learning-reply/ai-application-engineer-ai-products-llm-rag-berlin-377089
-- **Data Engineer – Healthcare** | PAICON | Heidelberg | score 69 | English signal | German: Unclear | Check salary  
-  https://www.arbeitnow.com/jobs/companies/paicon/senior-data-engineer-healthcare-heidelberg-485630
-- **Flight Dynamics Data Engineer (All Genders)** | Skdse | Munich, Bavaria | score 68 | 3+ yrs | German: Unclear | Check salary  
-  https://www.arbeitnow.com/jobs/companies/skdse/flight-dynamics-data-engineer-all-genders-munich-bavaria-123108
-- **Robot Learning Engineer** | Rohlik | Berlin, Germany | score 68 | German: Unclear | Check salary  
-  https://www.arbeitnow.com/jobs/companies/rohlik/robot-learning-engineer-berlin-257419
-- **Engineering Manager, AI Group** | intercom | Berlin | score 68 | German: Unclear | Check salary  
-  https://www.arbeitnow.com/jobs/companies/intercom/engineering-manager-ai-group-berlin-33291
-- **Internship - Machine Learning Research Engineer** | Perplexity | Berlin | score 66 | German: Unclear | Check salary  
-  https://www.arbeitnow.com/jobs/companies/perplexity/internship-machine-learning-research-engineer-berlin-168024
+- **(Junior) Cloud Data Engineer (all genders)** | DYMATRIX GmbH | Stuttgart | score 71 | German: Unclear | Check salary  
+  https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-59e4c50d_JB5280489-S
+- **AI & Automation Specialist  / AI Engineer** | HDI AG | Hannover | score 66 | German: Unclear | Check salary  
+  https://www.arbeitsagentur.de/jobsuche/jobdetail/19376-44528995-1023-S
+- **Generative AI Developer (m/f/d)** | GES.F.WISS.DATENVERARBEITUNG MBH GOETTINGEN | Göttingen | score 64 | German: Unclear | Check salary  
+  https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208399729-S
 
-## German mandatory: override-only (49)
+## Bronze (3)
+
+- **Business Intelligence Specialist / Business Analyst** | HDI AG | Hannover | score 54 | German: Unclear | Check salary  
+  https://www.arbeitsagentur.de/jobsuche/jobdetail/19376-44528984-1023-S
+- **Global Salesforce Business Analyst & Admin (m/f/d) – Customer Service & Platform** | Fresenius SE & Co. KG aA | Bad Homburg vor der Höhe | score 52 | German: Unclear | Check salary  
+  https://www.arbeitsagentur.de/jobsuche/jobdetail/15412-108550X353518-S
+- **Global Salesforce Business Analyst & Admin (m/f/d) – Sales** | Fresenius SE & Co. KG aA | Bad Homburg vor der Höhe | score 52 | German: Unclear | Check salary  
+  https://www.arbeitsagentur.de/jobsuche/jobdetail/15412-108659X353694-S
+
+## German mandatory: override-only (45)
 
 Listed so you can decide. Applying here is your risk call; tag it in the tracker.
 
-- Working Student IT Operations (f/m/d) | SPREAD GmbH | Berlin | Gold | https://www.arbeitnow.com/jobs/companies/spread-gmbh/working-student-it-operations-berlin-282027
-- System Engineer (m/w/d) | MintCode Solutions GmbH | Haselünne | Gold | https://www.arbeitnow.com/jobs/companies/mintcode-solutions-gmbh/system-engineer-haselunne-324130
-- Technikleiter (m/w/d) – IT-Services & Dispatch | ADVANCED Systemhaus GmbH | Hamburg | Gold | https://www.arbeitnow.com/jobs/companies/advanced-systemhaus-gmbh/technikleiter-it-services-dispatch-hamburg-353973
-- Information Security Officer (f/m/d) | SPREAD GmbH | Berlin | Gold | https://www.arbeitnow.com/jobs/companies/spread-gmbh/information-security-officer-berlin-450911
-- ERP & Cloud Spezialist | AJAT GmbH | Cologne | Gold | https://www.arbeitnow.com/jobs/companies/ajat-gmbh/erp-cloud-spezialist-cologne-212472
-- Junior AI Application Engineer – AI Products (LLM & RAG) (m/f/d) | Machine Learning Reply | Munich | Silver | https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-5253
-- IT-Systemadministrator (m/w/d) Produktions-IT / Microsoft Intune – Direktvermittlung | Raum Nürnberg | add-on personal & lösungen GmbH | Nürnberg, Mittelfranken | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003903571-S
-- Microsoft 365 & Modern Workplace Administrator (m/w/d) | pco GmbH & Co. KG | Osnabrück | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003896266-S
-- Fachinformatiker Systemintegration (w/m/d) / IT-Spezialist (w/m/d) Modern Workplace | Robert Half Deutschland GmbH & Co. KG | München | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003887445-S
-- IT-Administrator / System Engineer(m/w/d) | Microsoft 365 & Security & Managed Services | 7ahead GmbH | Frankfurt am Main | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003887191-S
-- IT-Systemadministrator (m/w/d) Modern Workplace | AMADEUS FIRE AG | Hamburg | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12862-257101-S
-- Digital Workplace Specialist (m/w/d) M365 und KI | Schmieder GmbH Unternehmensberatung | Friedrichshafen | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/14418-48568-1800921-0-S
-- ServiceNow Experte mit ITSM Fokus (m/w/d) | Axel Springer SE | Berlin | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/20470-978694233-S
-- ServiceNow Integration Engineer & CMDB-/CSDM-Experte (m/w/d) | Landesbank Baden-Württemberg ADöR | Stuttgart | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/15107-44529240-1023-S
-- IT Rollout Techniker (m/w/d) | TEMPTON Next Level Experts GmbH | Hannover | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12098-13902134-S
-- IT Servicetechniker (m/w/d) Rollout | puro Personaldienstleistung GmbH | Taufkirchen, Kreis München | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/13669-S25H14JTZKAEBRRA-S
-- IT Servicetechniker / Rollout Techniker (m/w/d) | digatus personal GmbH | Hannover | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/19886-3E150EGOSYL6XF3X-S
-- IT Ausliefertechniker (m/w/d) – Rollout und Usersupport | digatus personal GmbH | Karlsfeld bei München | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/19886-SCAL6PC2HIADKS5R-S
-- IT Floorwalker / Rollout Support Techniker (m/w/d) | digatus personal GmbH | Nürnberg, Mittelfranken | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/19886-O3YL7FB36VP4924P-S
-- IT-Support / Fachinformatiker Systemintegration (m/w/d) – Rollout & Anwenderhilfe | hanfried Personaldienstleistungen GmbH | Bremen | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/17724-CZ65XGSYAXUKETWO-S
-- Product Owner – B2B SaaS (m/w/d) | CALIMA | Berlin | Gold | https://www.arbeitnow.com/jobs/companies/calima/product-owner-b2b-saas-berlin-58931
-- IT-Administrator / System Engineer (m/w/d) | Hall Tabakwaren e.K | Mönchengladbach, Nordrhein-Westfalen, Deutschland | Gold | https://www.arbeitnow.com/jobs/companies/hall-tabakwaren-ek/it-administrator-system-engineer-monchengladbach-325371
-- Administrator Softwarebereitstellung / Microsoft 365 m/w/d | TeamPower Personaldienstleistungs GmbH | Pforzheim | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003881494-S
-- IT Systemadministrator Microsoft 365 und Active Directory (m/w/d) | LZ Informatik | Fürth, Bayern | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12601-12157-1800678-0-S
-- IT System Engineer (m/w/d) – Endpoint Management & Infrastructure | LOXXESS AG | Ebermannsdorf | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/17336-0068304883-S
+- Junior Technical Product Owner Webshop (m/w/d) B2B-Versandhandel | Jungheinrich Profishop AG & Co. KG | Hamburg | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003905171-S
+- Sachbearbeiter*in Projektmanagement Office (PMO) | Stromnetz Berlin GmbH | Berlin | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4976659983-S
+- Teilprojektleiter ITSM / Product Owner (m/w/d) | shoob.de | Bonn | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003884756-S
+- IT Project Manager (m/w/d) | DHL AG Zentrale | Bonn | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/14340-492261706-S
+- IT Project & Program Manager (m/w/d) | BWI GmbH | Hamburg | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/13509-0000211169b001-S
+- IT Projekt Manager (PMO) (m/w/d) | I. K. Hofmann GmbH | Bonn | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/11868-13902764-S
+- Internationaler IT Project Manager (m/w/d) für Biometrie Lösungen | fran..., DERMALOG Identificat... | DERMALOG Identification Systems GmbH | Hamburg | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2360337-S
+- Product Owner IT Service Management (m/w/d) | YER | Bonn | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4973759125-S
+- Product Owner (m/w/d) | FERCHAU GmbH Niederlassung Stuttgart Mobility | Stuttgart | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-281925_JB5280707-S
+- Product Owner (w/m/d) | RTL Deutschland GmbH | Köln | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/13660-977778709-S
+- Product Owner Industrial Engineering (m/w/d) | FERCHAU GmbH Niederlassung Darmstadt | Darmstadt | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-402142_JB5280685-S
+- Digitales Produktmanagement/Product Owner (w/m/d) | Verbraucherzentrale NRW e.V. Geschäftsstelle | Düsseldorf | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003874375-S
+- Product Owner "People Insights & Analytics" (w/m/d) | dmTECH GmbH | Karlsruhe, Baden | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-263550191026-S
+- Product Owner Digitale Finanzlösungen (m/w/d) in Direktvermittlung | FERCHAU GmbH Niederlassung Stuttgart Automotive | Stuttgart | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-515428_JB5277157-S
+- Service IT Project Implementation Manager (m/w/d) | Rheinmetall AG | Unterlüß | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-635689-7878-5920-S
+- SAP PMO - Project Management Officer (m/w/d) | BA Business Advice GmbH | Oldenburg (Oldb) | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-313693-S
+- IT Project Manager (w/m/d) | Brunel GmbH NL Braunschweig | Braunschweig | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR269681_4981CS-S
+- IT Project Manager (m/w/d) WMS-Team | Nagel-Group Logistics SE | Borgholzhausen | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/16602-e53b69581831645f-S
+- Manager IT PMO & Governance (m/w/d) | FERCHAU GmbH Niederlassung Friedrichshafen | Friedrichshafen | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-518467_JB5276913-S
+- Product Owner (m/w/d) | Advancis Software & Services GmbH | Langen (Hessen) | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003888876-S
+- Product Owner (m/w/d) Service Center IT, Treppendorf | Thomann GmbH | Burgebrach | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2362648-S
+- Product Owner (w/m/d) | Brunel GmbH NL Braunschweig | Celle | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR269678_4967CS-S
+- Product Owner / Projektkoordinator*in in der Software-Entwicklung(w/m/d) | Georg-August-Universität Zentr. Universitätsverwaltung | Göttingen | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/16522-JOB-76644-S
+- Product Owner (m/w/d) | FERCHAU GmbH Niederlassung Bielefeld | Bielefeld | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-301174_JB5280740-S
+- Product Owner Kassen-App (m/w/d) | PHOENIX Pharmahandel GmbH & Co. KG | Mannheim | Gold | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003879926-S
 
 ## Career pages
 
-- Exyte: first snapshot stored (no JSON-LD found) (https://www.exyte.net/careers)
-- Bechtle: first snapshot stored (no JSON-LD found) (https://www.bechtle.com/karriere)
-- SPIRIT/21: first snapshot stored (no JSON-LD found) (https://spirit21.com/en/)
+- Exyte: no change (https://www.exyte.net/careers)
+- Bechtle: CHANGED: open the page and look (https://www.bechtle.com/karriere)
+- SPIRIT/21: no change (https://spirit21.com/en/)
